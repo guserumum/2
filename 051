@@ -3053,6 +3053,45 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="02. TV Parabola[2025]",CCTV 1 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv1.m3u8?token=7375646f8f1da589c75508080b25fccb94ebbd05
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="02. TV Parabola[2025]",CCTV 2 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv2.m3u8?token=7375646f8f1da589c75508080b25fccb94ebbd05
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="02. TV Parabola[2025]",CCTV 3 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv3.m3u8?token=7375646f8f1da589c75508080b25fccb94ebbd05
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="02. TV Parabola[2025]",CCTV 4 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv4.m3u8?token=7375646f8f1da589c75508080b25fccb94ebbd05
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="02. TV Parabola[2025]",CCTV 5 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv5.m3u8?token=7375646fe1a441e92423441f7be4cee4113d849c
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="02. TV Parabola[2025]",CCTV 5+(cfss.cc/mk)-
+http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="02. TV Parabola[2025]",CCTV 6 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv6.m3u8?token=7375646f8f1da589c75508080b25fccb94ebbd05
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="02. TV Parabola[2025]",CCTV 7(cfss.cc/mk)
+http://122.137.124.89:5003/cctv7.m3u8?token=7375646fe1a441e92423441f7be4cee4113d849c
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="02. TV Parabola[2025]",CCTV 8(cfss.cc/mk)
+http://122.137.124.89:5003/cctv8.m3u8?token=7375646f8f1da589c75508080b25fccb94ebbd05
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="02. TV Parabola[2025]",CCTV 9 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv9.m3u8?token=7375646fe1a441e92423441f7be4cee4113d849c
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="02. TV Parabola[2025]",CCTV 10 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv10.m3u8?token=7375646f8f1da589c75508080b25fccb94ebbd05
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="02. TV Parabola[2025]",CCTV 11 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv11.m3u8?token=7375646fe1a441e92423441f7be4cee4113d849c
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv12.jpg" group-title="02. TV Parabola[2025]",CCTV 12 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv12.m3u8?token=7375646f8f1da589c75508080b25fccb94ebbd05
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="02. TV Parabola[2025]",CCTV 13(cfss.cc/mk)-
+http://smart.cityq.xyz:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="02. TV Parabola[2025]",CCTV 14 (cfss.cc/mk)
+http://122.137.124.89:5003/cctv14.m3u8?token=7375646fe1a441e92423441f7be4cee4113d849c
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="02. TV Parabola[2025]",CCTV 15 (cfss.cc/mk)-
+http://smart.cityq.xyz:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg" group-title="02. TV Parabola[2025]",CCTV 16(cfss.cc/mk)-
+http://smart.cityq.xyz:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="02. TV Parabola[2025]",CCTV 17 (cfss.cc/mk)-
+http://smart.cityq.xyz:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
+
+
+
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="02. TV Parabola[2025]",CCTV 1 (ct)
 http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="02. TV Parabola[2025]",CCTV 2 (sh)-
