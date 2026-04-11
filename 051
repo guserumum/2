@@ -8188,14 +8188,14 @@ http://i.klikhost.com:8606/;
 https://livepantau.semarangkota.go.id/137b10d4-29a5-4d29-81b1-a94f2177cfad/video1_stream.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Simpang Lima Semarang
-https://livepantau.semarangkota.go.id/15297d2f-f6b8-4929-8e9f-6bd03a264163/video1_stream.m3u8
+https://livepantau.semarangkota.go.id/796f806d-b5d7-449e-90ed-07930844d617/video1_stream.m3u8
 
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Pucang Gading Semarang (barat)
-https://livepantau.semarangkota.go.id/91d1b2cf-b616-40d5-b63c-f18c578ab1cc/video1_stream.m3u8
+https://livepantau.semarangkota.go.id/d5e179aa-88d1-41e9-b722-bb0f479eb326/video1_stream.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Jatingaleh Semarang HD
-https://livepantau.semarangkota.go.id/09b601f6-aee3-4c43-9616-fac642aecba8/video1_stream.m3u8
+https://livepantau.semarangkota.go.id/877bc9dd-2d47-4dd9-a70c-6e598e719665/video1_stream.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Jatingaleh Semarang (selatan)
 https://livepantau.semarangkota.go.id/07c01859-d70f-4da2-8bda-761445381403/video1_stream.m3u8
@@ -8273,7 +8273,7 @@ http://i.klikhost.com:8054/;
 
 <========================================================================================================>
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana selatan
-https://dev.cradnu.com/820fb8a9-3cfc-4e8c-8342-47b993597cc6_output_0.m3u8
+https://dishub.cradnu.com/memfs/13d7236f-5bd9-475d-8399-24940f9930fa_output_0.m3u8?session=EPXu6PJhAcx423BktmfVpj
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana selatan sesi
 https://dev.cradnu.com/820fb8a9-3cfc-4e8c-8342-47b993597cc6_output_0.m3u8?session=MzCNFYwhBfREXx7nXkjzyt
@@ -8399,7 +8399,7 @@ https://dev2.cradnu.com/hls/play/wirosari1.m3u8?key=cris&exp=1766904794
 
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getas
-https://dev2.cradnu.com/hls/play/ch9901.m3u8
+https://dishub.cradnu.com/memfs/924ab4d4-9746-4a3f-a5b5-19122b92d7ac_output_0.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getas sesi
 https://dev2.cradnu.com/hls/play/ch9901.m3u8?key=cris&exp=1766904794
