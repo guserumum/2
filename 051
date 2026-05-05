@@ -8311,155 +8311,86 @@ https://
 http://i.klikhost.com:8054/;
 
 <========================================================================================================>
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana selatan
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getasrejo
+https://dishub.cradnu.com/memfs/924ab4d4-9746-4a3f-a5b5-19122b92d7ac_output_0.m3u8?session=NQ34LJ4MR5E7LegV6cp4ux
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",putat barat
+https://stream.dishub.grobogan.go.id/memfs/2917361c-032d-4ab5-a53a-552d17bd401a_output_0.m3u8?session=J59wAqbLX3FyrVCMUDfsmM
+
+
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun selatan
 https://dishub.cradnu.com/memfs/13d7236f-5bd9-475d-8399-24940f9930fa_output_0.m3u8?session=EPXu6PJhAcx423BktmfVpj
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana selatan sesi
-https://dev.cradnu.com/820fb8a9-3cfc-4e8c-8342-47b993597cc6_output_0.m3u8?session=MzCNFYwhBfREXx7nXkjzyt
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun selatan2
+https://stream.dishub.grobogan.go.id/memfs/deb97d9b-8f4c-4b84-8be3-3e5388a3a4fa_output_0.m3u8?session=RfhmyNS7eakD967jDvx8WE
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun timur
+https://stream.dishub.grobogan.go.id/memfs/01bc9e0b-8b80-4a9a-80d5-dcd856a36aaa_output_0.m3u8?session=Lkvv8BCdnah3tYxV7jz5FV
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun barat
+https://stream.dishub.grobogan.go.id/memfs/75bc4339-1a83-4ece-9c74-18a53197edb8_output_0.m3u8?session=RtGgmWfZwqx5f2CswHLPTm
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun utara
+https://stream.dishub.grobogan.go.id/memfs/00f24e82-2004-4806-9611-8fcfd211656c_output_0.m3u8?session=9yxBNPTzD2CqbZBBAxcjDx
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana selatan
+https://stream.dishub.grobogan.go.id/memfs/1fc88916-fc43-428a-8710-7b9c22e32c77_output_0.m3u8?session=DRJeDTxoKnMPLUoCkpfGmQ
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana timur 
+https://stream.dishub.grobogan.go.id/memfs/692517c9-cd96-4907-ab38-898cea6ae611_output_0.m3u8?session=Prdt9sBZyMSoZtV4oJJK6Q
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana barat
-https://dev2.cradnu.com/hls/play/ch401.m3u8
+https://stream.dishub.grobogan.go.id/memfs/0c71034d-c8c2-419a-aa63-b4794467732b_output_0.m3u8?session=3Dp7soJ7JTjFKvALLbYxVc
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana barat sesi
-https://dev2.cradnu.com/hls/play/ch401.m3u8?key=cris&exp=1766904385
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana utara
+https://stream.dishub.grobogan.go.id/memfs/c4af6157-1252-4757-ab1c-2e59f35940de_output_0.m3u8?session=cHNdM6F2Nc2Wq4GjyspTiz
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana timur
-https://dev2.cradnu.com/hls/play/ch801.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana timur sesi
-https://dev2.cradnu.com/hls/play/ch801.m3u8?key=cris&exp=1766904385
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana utara 
-https://dev2.cradnu.com/hls/play/ch101.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana utara sesi
-https://dev2.cradnu.com/hls/play/ch101.m3u8?key=cris&exp=1766904385
-
-<========================================================================================================>
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", alun-alun selatan
-https://dev2.cradnu.com/hls/play/ch601.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", alun-alun selatan sesi
-https://dev2.cradnu.com/hls/play/ch601.m3u8?key=cris&exp=1766904385
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", alun-alun barat
-https://dev2.cradnu.com/hls/play/ch1401.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", alun-alun barat sesi
-https://dev2.cradnu.com/hls/play/ch1401.m3u8?key=cris&exp=1766904794
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", alun-alun timur
-https://dev2.cradnu.com/hls/play/ch501.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", alun-alun timur sesi
-https://dev2.cradnu.com/hls/play/ch501.m3u8?key=cris&exp=1766904794
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", alun-alun utara 
-https://dev2.cradnu.com/hls/play/ch701.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", alun-alun utara sesi
-https://dev2.cradnu.com/hls/play/ch701.m3u8?key=cris&exp=1766904794
 
 <========================================================================================================>
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang selatan
-https://dev2.cradnu.com/hls/play/ch1201.m3u8
+https://dishub.cradnu.com/memfs/9a72d19b-bf91-4bb7-b4ad-2f7407a58c7b_output_0.m3u8?session=aGzSLLjFfPuPXfEvyKUoKR
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang selatan sesi
-https://dev2.cradnu.com/hls/play/ch1201.m3u8?key=cris&exp=1766904794
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang barat
-https://dev2.cradnu.com/hls/play/ch1101.m3u8
+https://dishub.cradnu.com/memfs/ee32e2b2-ee5c-4de0-8a06-b3f7ce0f225d_output_0.m3u8?session=ZThZ4Qn4KEBF6AcJqLnvKc
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang barat sesi
-https://dev2.cradnu.com/hls/play/ch1101.m3u8?key=cris&exp=1766904794
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang timur
-https://dev2.cradnu.com/hls/play/ch901.m3u8
+https://dishub.cradnu.com/memfs/9f6f986f-f77c-4818-9e42-989862234d85_output_0.m3u8?session=GDNijs2aJzi7AcypHF4VtJ
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang timur sesi
-https://dev2.cradnu.com/hls/play/ch901.m3u8?key=cris&exp=1766904794
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang utara 
-https://dev2.cradnu.com/hls/play/ch1001.m3u8
+https://dishub.cradnu.com/memfs/b7ff11ce-e6e3-4b5f-b94c-885fa6e86518_output_0.m3u8?session=4WnBF8zzwAQ78EwpfdkRfn
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang utara sesi
-https://dev2.cradnu.com/hls/play/ch1001.m3u8?key=cris&exp=1766904794
 <========================================================================================================>
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", smansa
-https://dev2.cradnu.com/hls/play/ch301.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", smansa sesi
-https://dev2.cradnu.com/hls/play/ch301.m3u8?key=cris&exp=1766904794
+https://stream.dishub.grobogan.go.id/memfs/fa108bdc-0a01-416b-a47a-5d1f9131a1cf_output_0.m3u8?session=JMYWCDnPMGcX3xYfV26dFh
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", smansa pc
-https://dev2.cradnu.com/hls/play/ch1301.m3u8
+https://dishub.cradnu.com/memfs/b5fe1325-698e-49cf-921b-72d554d3973b_output_0.m3u8?session=ZjKMDzDictpWh83TUnonSj
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", smansa pc sesi
-https://dev2.cradnu.com/hls/play/ch1301.m3u8?key=cris&exp=1766904794
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", kominfo
+https://stream.dishub.grobogan.go.id/memfs/474d4814-bbc4-4a37-96eb-5476548b7ab9_output_0.m3u8?session=bnfXmAyNcVgAtvshVMSJvL
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", dishub
+https://stream.dishub.grobogan.go.id/memfs/32e4139f-0780-47bd-b0a5-b890e9e56287_output_0.m3u8?session=YokdaZpUaaGkBUjE8YmGJg
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", godong
+https://stream.dishub.grobogan.go.id/memfs/318729ba-5275-4b93-b98a-730967c92044_output_0.m3u8?session=FYeqWmkeLHEU6NjfpxFNJc
+
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", polres
-https://dev2.cradnu.com/hls/play/ch1601.m3u8
+https://stream.dishub.grobogan.go.id/memfs/f0d61d65-7efe-486b-a525-f1913129c276_output_0.m3u8?session=9qpk6RaQSiMexE52wfuD7s
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", polres sesi
-https://dev2.cradnu.com/hls/play/ch1601.m3u8?key=cris&exp=1766904794
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", polres timur
-https://dev2.cradnu.com/hls/play/ch1701.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", polres timur sesi
-https://dev2.cradnu.com/hls/play/ch1701.m3u8?key=cris&exp=1766904794
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",putat
-https://dev2.cradnu.com/hls/play/ch1501.m3u8
+https://dishub.cradnu.com/memfs/d4d85227-c7b2-499d-a5eb-99b55d99f32d_output_0.m3u8?session=j3fQod3W8TPN5ZenXUEThh
 
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",putat sesi
-https://dev2.cradnu.com/hls/play/ch1501.m3u8?key=cris&exp=1766904794
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",putat barat
-https://dev2.cradnu.com/hls/play/ch1801.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",putat barat sesi
-https://dev2.cradnu.com/hls/play/ch1801.m3u8?key=cris&exp=1766904794
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",dishub
-https://dev2.cradnu.com/hls/play/ch1901.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",dishub sesi
-https://dev2.cradnu.com/hls/play/ch1901.m3u8?key=cris&exp=1766904794
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", wirosari
-https://dev2.cradnu.com/hls/play/wirosari1.m3u8
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", wirosari sesi
-https://dev2.cradnu.com/hls/play/wirosari1.m3u8?key=cris&exp=1766904794
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getas
-https://dishub.cradnu.com/memfs/924ab4d4-9746-4a3f-a5b5-19122b92d7ac_output_0.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getas sesi
-https://dev2.cradnu.com/hls/play/ch9901.m3u8?key=cris&exp=1766904794
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",nambuhan
-https://dev2.cradnu.com/hls/play/nambuhan1.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",nambuhan sesi
-https://dev2.cradnu.com/hls/play/nambuhan1.m3u8?key=cris&exp=1766904794
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",krangrayung 1
-https://dev2.cradnu.com/hls/play/karangrayung1.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",krangrayung 1 sesi
-https://dev2.cradnu.com/hls/play/karangrayung1.m3u8?key=cris&exp=1766904794
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",krangrayung 2
-https://dev2.cradnu.com/hls/play/karangrayung2.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",krangrayung 2 sesi
-https://dev2.cradnu.com/hls/play/karangrayung2.m3u8?key=cris&exp=1766904794
 <========================================================================================================>
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",X Fm Thomson Blora
