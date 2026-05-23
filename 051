@@ -15954,8 +15954,15 @@ Https://www.googleapis.com/drive/v3/files/1Z2ph8zHJUvFTtXotSHi_WdKKo3XudN4l?alt=
 
 #EXTINF:-1 tvg-logo="" group-title="💚💚💚TV 90an💚💚💚 ===>",
 
-#EXTINF:-1 group-title="💚💚💚TV 90an💚💚💚 ===>",💚💚💚V 90an💚💚💚
+#EXTINF:-1 group-title="💚💚💚TV 90an💚💚💚 ===>",💚💚💚TV 90an💚💚💚
 https://
+
+#EXTINF:-1 group-title="💚💚💚TV 90an💚💚💚 ===>" tvg-logo="",💙💙💙TV 90an💙💙💙
+https://
+
+#EXTINF:-1 group-title="💚💚💚TV 90an💚💚💚 ===>" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+
 #EXTINF:-1 tvg-logo="" group-title="💚💚💚TV 90an💚💚💚 ===>", 14.30-15.30 - Dunia Anak
 https://
 #EXTINF:-1 tvg-logo="" group-title="💚💚💚TV 90an💚💚💚 ===>", 15.30-16.00 - looney tones
@@ -15984,6 +15991,17 @@ https://
 <==========================================[  14.30-15.30 - Dunia Anak  ]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
+#EXTINF:-1 group-title="14.30-15.30 - Dunia Anak",💚💚💚TV 90an💚💚💚
+https://
+
+#EXTINF:-1 group-title="14.30-15.30 - Dunia Anak" tvg-logo="",💙💙💙14.30-15.30 - Dunia Anak💙💙💙
+https://
+
+#EXTINF:-1 group-title="14.30-15.30 - Dunia Anak" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+<=============================================================================================================================>
+
+
 #EXTINF:-1 group-title="14.30-15.30 - Dunia Anak" tvg-logo="",dunia anak
 https://
 
@@ -15992,29 +16010,76 @@ https://
 <==========================================[  15.30-16.00 - looney tones  ]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
+#EXTINF:-1 group-title="15.30-16.00 - looney tones",💚💚💚TV 90an💚💚💚
+https://
+
+#EXTINF:-1 group-title="15.30-16.00 - looney tones" tvg-logo="",💙💙💙15.30-16.00 - looney tones💙💙💙
+https://
+
+#EXTINF:-1 group-title="15.30-16.00 - looney tones" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+<=============================================================================================================================>
 #EXTINF:-1 group-title="15.30-16.00 - looney tones" tvg-logo="",looney tones
 https://
 <=============================================================================================================================>
+
+
+
 <=============================================================================================================================>
 <==========================================[  16.00-16.30 - marvo and henry  ]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
+#EXTINF:-1 group-title="16.00-16.30 - marvo and henry",💚💚💚TV 90an💚💚💚
+https://
+
+#EXTINF:-1 group-title="16.00-16.30 - marvo and henry" tvg-logo="",💙💙💙16.00-16.30 - marvo and henry💙💙💙
+https://
+
+#EXTINF:-1 group-title="16.00-16.30 - marvo and henry" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+<=============================================================================================================================>
 #EXTINF:-1 group-title="16.00-16.30 - marvo and henry" tvg-logo="",marvo and henry
 https://
 <=============================================================================================================================>
+
+
+
 <=============================================================================================================================>
 <==========================================[  16.30-17.00 - hagemaru  ]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
+#EXTINF:-1 group-title="16.30-17.00 - hagemaru",💚💚💚TV 90an💚💚💚
+https://
+
+#EXTINF:-1 group-title="16.30-17.00 - hagemaru" tvg-logo="",💙💙💙16.30-17.00 - hagemaru💙💙💙
+https://
+
+#EXTINF:-1 group-title="16.30-17.00 - hagemaru" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+<=============================================================================================================================>
 #EXTINF:-1 group-title="16.30-17.00 - hagemaru" tvg-logo="",hagemaru
 https://
 <=============================================================================================================================>
+
+
+
 <=============================================================================================================================>
 <==========================================[  17.00-17.30 - ninja warrior woman  ]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
+#EXTINF:-1 group-title="17.00-17.30 - ninja warrior woman",💚💚💚TV 90an💚💚💚
+https://
+
+#EXTINF:-1 group-title="17.00-17.30 - ninja warrior woman" tvg-logo="",💙💙💙17.00-17.30 - ninja warrior woman💙💙💙
+https://
+
+#EXTINF:-1 group-title="17.00-17.30 - ninja warrior woman" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+<=============================================================================================================================>
 #EXTINF:-1 group-title="17.00-17.30 - ninja warrior woman" tvg-logo="",ninja warrior woman
 https://
+<=============================================================================================================================>
+
 
 
 
@@ -16027,7 +16092,7 @@ https://
 <================================================================================================================>
 
 
-#EXTINF:-1 group-title="17.30-18.00 - Rurouni Kenshin-Samurai X" tvg-logo="",💚💚💚PRODUK UTAMA💚💚💚
+#EXTINF:-1 group-title="17.30-18.00 - Rurouni Kenshin-Samurai X" tvg-logo="",💚💚💚TV 90an💚💚💚
 https://
 
 #EXTINF:-1 group-title="17.30-18.00 - Rurouni Kenshin-Samurai X" tvg-logo="",💙💙💙17.30-18.00 - Rurouni Kenshin-Samurai X💙💙💙
@@ -16308,18 +16373,44 @@ Https://www.googleapis.com/drive/v3/files/1zshwI6SJo5UW3ugJnpuQCd5J4kQjUakP?alt=
 <==========================================[  18.00-18.30 - Jinny oh Jinny I  ]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
+#EXTINF:-1 group-title="18.00-18.30 - Jinny oh Jinny I",💚💚💚TV 90an💚💚💚
+https://
+
+#EXTINF:-1 group-title="18.00-18.30 - Jinny oh Jinny I" tvg-logo="",💙💙💙18.00-18.30 - Jinny oh Jinny I💙💙💙
+https://
+
+#EXTINF:-1 group-title="18.00-18.30 - Jinny oh Jinny I" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+<=============================================================================================================================>
 #EXTINF:-1 group-title="18.00-18.30 - Jinny oh Jinny I" tvg-logo="",Jinny oh Jinny I
 https://
 <=============================================================================================================================>
+
+
+
+
 <=============================================================================================================================>
 <==========================================[  18.30-19.00 - Jinny oh Jinny II  ]======================================================>
 <=============================================================================================================================>
+<=============================================================================================================================>
+#EXTINF:-1 group-title="18.30-19.00 - Jinny oh Jinny II",💚💚💚TV 90an💚💚💚
+https://
+
+#EXTINF:-1 group-title="18.30-19.00 - Jinny oh Jinny II" tvg-logo="",💙💙💙18.30-19.00 - Jinny oh Jinny II💙💙💙
+https://
+
+#EXTINF:-1 group-title="18.30-19.00 - Jinny oh Jinny II" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
 <=============================================================================================================================>
 #EXTINF:-1 group-title="18.30-19.00 - Jinny oh Jinny II" tvg-logo="",Jinny oh Jinny II
 https://
 
 
 <================================================================================================================>
+
+
+
+
 <================================================================================================================>
 <================================================================================================================>
 <=======================================   19.00- 20.30 - Cinema Mandarin ========================================>
@@ -16328,7 +16419,7 @@ https://
 <================================================================================================================>
 
 
-#EXTINF:-1 group-title="19.00- 20.30 - Cinema Mandarin" tvg-logo="",💚💚💚PRODUK UTAMA💚💚💚
+#EXTINF:-1 group-title="19.00- 20.30 - Cinema Mandarin" tvg-logo="",💚💚💚TV 90an💚💚💚
 https://
 
 #EXTINF:-1 group-title="19.00- 20.30 - Cinema Mandarin" tvg-logo="",💙💙💙19.00- 20.30 - Cinema Mandarin💙💙💙
@@ -17367,10 +17458,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 <================================================================================================================>
 
 
-#EXTINF:-1 group-title="20.00- 21.30 - Warkop DKI" tvg-logo="",💚💚💚PRODUK UTAMA💚💚💚
+#EXTINF:-1 group-title="20.00- 21.30 - Warkop DKI" tvg-logo="",💚💚💚TV 90an💚💚💚
 https://
 
-#EXTINF:-1 group-title="20.00- 21.30 - Warkop DKI" tvg-logo="",💙💙💙17.30-18.00 - Rurouni Kenshin-Samurai X💙💙💙
+#EXTINF:-1 group-title="20.00- 21.30 - Warkop DKI" tvg-logo="",💙💙💙20.00- 21.30 - Warkop DKI💙💙💙
 https://
 
 #EXTINF:-1 group-title="20.00- 21.30 - Warkop DKI" tvg-logo="",💛💛💛Semua Channel💛💛💛
@@ -17537,8 +17628,37 @@ Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=
 <==========================================[  21.30-23.00 - Cinema Pilihan  ]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
-#EXTINF:-1 group-title="21.30-23.00 - Cinema Pilihan" tvg-logo="",Cinema Pilihan
+#EXTINF:-1 group-title="21.30-23.00 - Cinema Pilihan",💚💚💚TV 90an💚💚💚
 https://
+
+#EXTINF:-1 group-title="21.30-23.00 - Cinema Pilihan" tvg-logo="",💙💙💙21.30-23.00 - Cinema Pilihan💙💙💙
+https://
+
+#EXTINF:-1 group-title="21.30-23.00 - Cinema Pilihan" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+<=============================================================================================================================>
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",Z104. Back To The Future, Part 1 1985.mp4
+Https://www.googleapis.com/drive/v3/files/1lwReipeo725o2RRLdjF4eijJW9mFIM4c?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",Z105. Back To The Future, Part 2 1989.mp4
+Https://www.googleapis.com/drive/v3/files/1vR1R8K12kqWwZZxH__-CNDB-yzie5fhS?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",Z106. Back To The Future, Part 3 1990.mp4
+Https://www.googleapis.com/drive/v3/files/1zt4GLfVL_dmG93XMPEAV_HeVjHKecELK?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",z107. Predator (1987)
+Https://www.googleapis.com/drive/v3/files/1vyHUCB9vlLDWMZKgpHV2m3KNG9aFkv4D?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",z107. Predator 2(1990)
+Https://www.googleapis.com/drive/v3/files/1V0qHNFM2Jnjz2k13R_0BAkr3gKXjYx-M?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
 <=============================================================================================================================>
 <=============================================================================================================================>
 
