@@ -8558,30 +8558,11 @@ http://i.klikhost.com:8054/;
 
 <========================================================================================================>
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getasrejo
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getasrejo (no sesi)
 https://dishub.cradnu.com/memfs/924ab4d4-9746-4a3f-a5b5-19122b92d7ac_output_0.m3u8?session=NQ34LJ4MR5E7LegV6cp4ux
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getasrejo 12ts
-https://stream.dishub.grobogan.go.id/memfs/ff0a20ee-06df-43fa-be1f-39205d7eba59_output_0.m3u8?session=YVzNMA3jS83qyEFT6V5tJH
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getasrejo 720p
-https://stream.dishub.grobogan.go.id/memfs/ff0a20ee-06df-43fa-be1f-39205d7eba59_output_0.m3u8?session=AFLvjeB2SfBK7SeF4f24Bs
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",putat barat 17
-https://stream.dishub.grobogan.go.id/memfs/2917361c-032d-4ab5-a53a-552d17bd401a_output_0.m3u8?session=QQAPhbVjL6pWYRGKeCxwdP
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",putat barat 1520p
-https://stream.dishub.grobogan.go.id/memfs/2917361c-032d-4ab5-a53a-552d17bd401a_output_0.m3u8?session=NBbFvZQvZazgBUDt4o7WKa
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",simpang putat 
-https://stream.dishub.grobogan.go.id/memfs/70baa804-425b-475f-b2ea-2cd0ffa886a4_output_0.m3u8?session=eafkWwvB6jhZRJxtTLydNm
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",simpang putat 17
-https://stream.dishub.grobogan.go.id/memfs/70baa804-425b-475f-b2ea-2cd0ffa886a4_output_0.m3u8?session=g7PdEPUQ8MjY2tXe5YTpSx
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",simpang putat 1520p
-https://stream.dishub.grobogan.go.id/memfs/70baa804-425b-475f-b2ea-2cd0ffa886a4_output_0.m3u8?session=Kxp5ZNWfCpP9pcY3D3uZ2f
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",getasrejo
+https://dishub.cradnu.com/memfs/924ab4d4-9746-4a3f-a5b5-19122b92d7ac_output_0.m3u8?session=NQ34LJ4MR5E7LegV6cp4ux
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun selatan 480p
 https://dishub.cradnu.com/memfs/13d7236f-5bd9-475d-8399-24940f9930fa_output_0.m3u8?session=HaHmPpkB3ZkziZ39KBUyeR
@@ -8591,33 +8572,6 @@ https://dishub.cradnu.com/memfs/13d7236f-5bd9-475d-8399-24940f9930fa_output_0.m3
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun selatan
 https://dishub.cradnu.com/memfs/13d7236f-5bd9-475d-8399-24940f9930fa_output_0.m3u8?session=EPXu6PJhAcx423BktmfVpj
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun selatan2
-https://stream.dishub.grobogan.go.id/memfs/deb97d9b-8f4c-4b84-8be3-3e5388a3a4fa_output_0.m3u8?session=RfhmyNS7eakD967jDvx8WE
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun timur
-https://stream.dishub.grobogan.go.id/memfs/01bc9e0b-8b80-4a9a-80d5-dcd856a36aaa_output_0.m3u8?session=Lkvv8BCdnah3tYxV7jz5FV
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun barat
-https://stream.dishub.grobogan.go.id/memfs/75bc4339-1a83-4ece-9c74-18a53197edb8_output_0.m3u8?session=RtGgmWfZwqx5f2CswHLPTm
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",alun-alun utara
-https://stream.dishub.grobogan.go.id/memfs/00f24e82-2004-4806-9611-8fcfd211656c_output_0.m3u8?session=9yxBNPTzD2CqbZBBAxcjDx
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana selatan
-
-https://stream.dishub.grobogan.go.id/memfs/1fc88916-fc43-428a-8710-7b9c22e32c77_output_0.m3u8?session=63UHrsXydJekzSJDFof4TM
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana timur 
-https://stream.dishub.grobogan.go.id/memfs/692517c9-cd96-4907-ab38-898cea6ae611_output_0.m3u8?session=Prdt9sBZyMSoZtV4oJJK6Q
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana barat
-https://stream.dishub.grobogan.go.id/memfs/0c71034d-c8c2-419a-aa63-b4794467732b_output_0.m3u8?session=3Dp7soJ7JTjFKvALLbYxVc
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]",kencana utara
-https://stream.dishub.grobogan.go.id/memfs/c4af6157-1252-4757-ab1c-2e59f35940de_output_0.m3u8?session=cHNdM6F2Nc2Wq4GjyspTiz
-
-
 
 <========================================================================================================>
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", simpang danyang selatan
@@ -8636,28 +8590,15 @@ https://dishub.cradnu.com/memfs/9f6f986f-f77c-4818-9e42-989862234d85_output_0.m3
 https://dishub.cradnu.com/memfs/b7ff11ce-e6e3-4b5f-b94c-885fa6e86518_output_0.m3u8?session=4WnBF8zzwAQ78EwpfdkRfn
 
 <========================================================================================================>
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", smansa
-https://stream.dishub.grobogan.go.id/memfs/fa108bdc-0a01-416b-a47a-5d1f9131a1cf_output_0.m3u8?session=JMYWCDnPMGcX3xYfV26dFh
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", polres timur
+https://dishub.cradnu.com/memfs/d4d85227-c7b2-499d-a5eb-99b55d99f32d_output_0.m3u8?session=j3fQod3W8TPN5ZenXUEThh
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", smansa pc
 https://dishub.cradnu.com/memfs/b5fe1325-698e-49cf-921b-72d554d3973b_output_0.m3u8?session=ZjKMDzDictpWh83TUnonSj
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", kominfo
-https://stream.dishub.grobogan.go.id/memfs/474d4814-bbc4-4a37-96eb-5476548b7ab9_output_0.m3u8?session=bnfXmAyNcVgAtvshVMSJvL
+<========================================================================================================>
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", dishub
-https://stream.dishub.grobogan.go.id/memfs/32e4139f-0780-47bd-b0a5-b890e9e56287_output_0.m3u8?session=YokdaZpUaaGkBUjE8YmGJg
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", godong
-https://stream.dishub.grobogan.go.id/memfs/318729ba-5275-4b93-b98a-730967c92044_output_0.m3u8?session=FYeqWmkeLHEU6NjfpxFNJc
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", polres
-https://stream.dishub.grobogan.go.id/memfs/f0d61d65-7efe-486b-a525-f1913129c276_output_0.m3u8?session=9qpk6RaQSiMexE52wfuD7s
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="" group-title="04. TV Lokal[2025]", polres timur
-https://dishub.cradnu.com/memfs/d4d85227-c7b2-499d-a5eb-99b55d99f32d_output_0.m3u8?session=j3fQod3W8TPN5ZenXUEThh
 
 
 
