@@ -1734,7 +1734,7 @@ https://
 http://202.169.224.202:8800/udp/239.9.1.23:1234
 
 
-EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
+#EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.169.224.202:8800/udp/239.9.1.23:1234
 
@@ -1792,6 +1792,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Kix.png" group-title="02. TV Parabola[2025]",038. KIX
 https://wahyu1ptv.pages.dev/KIX-HD.m3u8
+
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo="https://images.indihometv.com/assets/88_THRILL_2025_03_17_14_57_55.png",Thrill (ih)
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myca.png",38. My Cinema Asia HD (d index)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -5115,23 +5118,69 @@ https://
 
 ################################################################IndihomeTV#############################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png" group-title="03. TV Kabel[2025]", Celestial Movies
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="03. TV Kabel[2025]", Celestial Movies
 http://202.169.224.202:8800/udp/239.9.1.23:1234
 
 
-#EXTINF:-1 group-title="03. TV Kabel[2025]" ch-number="34" tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1",Celestial Movies
+#EXTINF:-1 group-title="03. TV Kabel[2025]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.169.224.202:8800/udp/239.9.1.23:1234
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="03. TV Kabel[2025]",V+ CelestialMovies
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Jy0qhiH.png?v=1.0.0.1" group-title="03. TV Kabel[2025]",Celestial Classic Movie (CCM)
 http://202.169.224.202:8800/udp/239.9.1.22:1234
 
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+#EXTINF:-1 group-title="03. TV Kabel[2025]" ch-number="35" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CCM.png",Celestial Classic Movie (CCM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CCM.png" group-title="03. TV Kabel[2025]",V+ CCM
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CCM.png" group-title="03. TV Kabel[2025]",V+ CCM
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index_video_4_0_16485173.mp4?m=1720513559
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CCM.png" group-title="03. TV Kabel[2025]",V+i CCM
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index_video_4_0_init.mp4
+
+
+
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" ch-number="4" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1",TVN Movies (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="03. TV Kabel[2025]",TVN Movies HD
 http://filex.me:8080//live/MAS101A/MAS101AABB/302317.ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="03. TV Kabel[2025]",040. tVnMovie
+https://wahyu1ptv.pages.dev/tVnMovie-HD.m3u8
+
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" ch-number="50" tvg-logo="https://warningfm.github.io/v3/img/UAaZ3G1.png?v=1.0.0.1",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Kix.png" group-title="03. TV Kabel[2025]",038. KIX
+https://wahyu1ptv.pages.dev/KIX-HD.m3u8
 
 #EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo="https://images.indihometv.com/assets/88_THRILL_2025_03_17_14_57_55.png",Thrill (ih)
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
@@ -5182,6 +5231,23 @@ http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="03. TV Kabel[2025]",HBO3
 http://185.98.211.8:81/hbo3/index.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",cinemax HD
+http://185.98.211.8:81/cinemax/index.m3u8?token=test
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",film_plus
+http://185.98.211.8:81/film_plus/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",spektrum HD
+http://185.98.211.8:81/spektrum/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",history HD
+http://185.98.211.8:81/history/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",sport2
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_history HD
+http://185.98.211.8:81/viasat_history/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_nature HD
+http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_explore
+http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
 
 #EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
@@ -5205,42 +5271,7 @@ http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34355
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="03. TV Kabel[2025]",HBO2
-http://185.98.211.8:81/hbo2/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="03. TV Kabel[2025]",HBO3
-http://185.98.211.8:81/hbo3/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",cinemax HD
-http://185.98.211.8:81/cinemax/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",fightbox
-http://185.98.211.8:81/fightbox/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",film_plus
-http://185.98.211.8:81/film_plus/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",history HD
-http://185.98.211.8:81/history/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",sport2
-http://185.98.211.8:81/sport2/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_history HD
-http://185.98.211.8:81/viasat_history/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_nature HD
-http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",hbo2 HD
-http://185.98.211.8:81/hbo2/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",fightbox
-http://185.98.211.8:81/fightbox/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_history HD
-http://185.98.211.8:81/viasat_history/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_explore
-http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",cinemax HD
-http://185.98.211.8:81/cinemax/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",hbo3 HD
-http://185.98.211.8:81/hbo3/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",spektrum HD
-http://185.98.211.8:81/spektrum/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",history HD
-http://185.98.211.8:81/history/index.m3u8?token=test
-#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",sport2
-http://185.98.211.8:81/sport2/index.m3u8?token=test
+
 
 
 
