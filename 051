@@ -5203,6 +5203,47 @@ http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34353
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34355
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="03. TV Kabel[2025]",HBO2
+http://185.98.211.8:81/hbo2/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="03. TV Kabel[2025]",HBO3
+http://185.98.211.8:81/hbo3/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",cinemax HD
+http://185.98.211.8:81/cinemax/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",fightbox
+http://185.98.211.8:81/fightbox/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",film_plus
+http://185.98.211.8:81/film_plus/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",history HD
+http://185.98.211.8:81/history/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",sport2
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_history HD
+http://185.98.211.8:81/viasat_history/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_nature HD
+http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",hbo2 HD
+http://185.98.211.8:81/hbo2/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",fightbox
+http://185.98.211.8:81/fightbox/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_history HD
+http://185.98.211.8:81/viasat_history/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",viasat_explore
+http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",cinemax HD
+http://185.98.211.8:81/cinemax/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",hbo3 HD
+http://185.98.211.8:81/hbo3/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",spektrum HD
+http://185.98.211.8:81/spektrum/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",history HD
+http://185.98.211.8:81/history/index.m3u8?token=test
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",sport2
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+
+
+
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
