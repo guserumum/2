@@ -1443,7 +1443,20 @@ http://123.255.201.126:8020/kisfm
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="01. TV Rumah[2025]",Pop FM Semarang
 https://i.klikhost.com:9612/;
 
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="01. TV Rumah[2025]",Jateng FM Semarang
+https://stream.jatengradio.jatengprov.go.id/listen/jateng_radio/radio.mp3
 
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="01. TV Rumah[2025]",RRI Pro1 Semarang
+https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro1.mp3
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="01. TV Rumah[2025]",RRI Pro2 Semarang
+https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro2.mp3
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="01. TV Rumah[2025]",RRI Pro4 Semarang
+https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro4.mp3
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="01. TV Rumah[2025]",Vocaradio FM Semarang
+https://streaming.celindo.id:8220/vocaradio
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="01. TV Rumah[2025]",Thomson Fm Semarang
 http://i.klikhost.com:8606/;
