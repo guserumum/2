@@ -1744,7 +1744,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="02. TV Parabola[2025]",V+ CelestialMovies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png" group-title="02. TV Parabola[2025]",V+ CelestialMovies
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 
@@ -1796,23 +1796,6 @@ https://wahyu1ptv.pages.dev/KIX-HD.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo="https://images.indihometv.com/assets/88_THRILL_2025_03_17_14_57_55.png",Thrill (ih)
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
-#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myca.png",38. My Cinema Asia HD (d index)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="02. TV Parabola[2025]",38-My Cinema Asia (dens index)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
-
-
-#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="02. TV Parabola[2025]",38-My Cinema Asia (khano)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
-
-
 
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="32" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -1833,6 +1816,87 @@ http://202.169.224.202:8800/udp/239.9.1.15:1234
 http://202.169.224.202:8800/udp/239.9.1.12:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="02. TV Parabola[2025]", Citra entertainment (udp)
 http://202.169.224.202:8800/udp/239.9.1.27:1234
+
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myca.png",38. My Cinema Asia HD (d index)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="02. TV Parabola[2025]",38-My Cinema Asia (dens index)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+
+
+#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="02. TV Parabola[2025]",38-My Cinema Asia (khano)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="02. TV Parabola[2025]",HBO HD
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="603" group-title="02. TV Parabola[2025]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="604" group-title="02. TV Parabola[2025]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="605" group-title="02. TV Parabola[2025]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2025]",Cinemax
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="02. TV Parabola[2025]",HBO2
+http://185.98.211.8:81/hbo2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="02. TV Parabola[2025]",HBO3
+http://185.98.211.8:81/hbo3/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2025]",cinemax HD
+http://185.98.211.8:81/cinemax/index.m3u8?token=test
+
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo=" ",film_plus
+http://185.98.211.8:81/film_plus/index.m3u8?token=test
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo=" ",spektrum HD
+http://185.98.211.8:81/spektrum/index.m3u8?token=test
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo=" ",history HD
+http://185.98.211.8:81/history/index.m3u8?token=test
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo=" ",sport2
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo=" ",viasat_history HD
+http://185.98.211.8:81/viasat_history/index.m3u8?token=test
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo=" ",viasat_nature HD
+http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo=" ",viasat_explore
+http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
 
 #EXTINF:-1  group-title="02. TV Parabola[2025]" tvg-logo="", 🤍🤍🤍 Stephen Chow 🤍🤍🤍 
 https://
@@ -5133,7 +5197,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="03. TV Kabel[2025]",V+ CelestialMovies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png" group-title="03. TV Kabel[2025]",V+ CelestialMovies
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 
@@ -5185,6 +5249,44 @@ https://wahyu1ptv.pages.dev/KIX-HD.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo="https://images.indihometv.com/assets/88_THRILL_2025_03_17_14_57_55.png",Thrill (ih)
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" ch-number="32" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo="https://images.indihometv.com/assets/88_THRILL_2025_03_17_14_57_55.png",Thrill (ih)
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Thrill.png" group-title="03. TV Kabel[2025]",039. Thrill
+https://wahyu1ptv.pages.dev/Thrill-HD.m3u8
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",ATV (ih)
+https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="03. TV Kabel[2025]", Citra Bioskop (udp)
+http://202.169.224.202:8800/udp/239.9.1.15:1234
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="03. TV Kabel[2025]", Citra drama (udp)
+http://202.169.224.202:8800/udp/239.9.1.12:1234
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="03. TV Kabel[2025]", Citra entertainment (udp)
+http://202.169.224.202:8800/udp/239.9.1.27:1234
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myca.png",38. My Cinema Asia HD (d index)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="03. TV Kabel[2025]",38-My Cinema Asia (dens index)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+
+
+#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="03. TV Kabel[2025]",38-My Cinema Asia (khano)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
+
+
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5231,7 +5333,7 @@ http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="03. TV Kabel[2025]",HBO3
 http://185.98.211.8:81/hbo3/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",cinemax HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="03. TV Kabel[2025]",cinemax HD
 http://185.98.211.8:81/cinemax/index.m3u8?token=test
 
 #EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",film_plus
