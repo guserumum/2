@@ -1677,7 +1677,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=1.0.0.1" group-title="01. TV Rumah[2025]" tvg-id="IndonesianaTV.id" tvg-name="01. TV Rumah[2025]", Indonesiana TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=1.0.0.1" group-title="01. TV Rumah[2025]" tvg-id="IndonesianaTV.id" tvg-name="03. TV Nasional 2", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
 
 
@@ -1880,7 +1880,7 @@ http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="02. TV Parabola[2025]",HBO3
 http://185.98.211.8:81/hbo3/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2025]",cinemax HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2025]",cinemax2
 http://185.98.211.8:81/cinemax/index.m3u8?token=test
 
 #EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo=" ",film_plus
@@ -5333,7 +5333,7 @@ http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="03. TV Kabel[2025]",HBO3
 http://185.98.211.8:81/hbo3/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="03. TV Kabel[2025]",cinemax HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="03. TV Kabel[2025]",cinemax2
 http://185.98.211.8:81/cinemax/index.m3u8?token=test
 
 #EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-logo=" ",film_plus
