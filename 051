@@ -8464,20 +8464,9 @@ http://i.klikhost.com:8606/;
 
 
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Bangjo Sampangan (-)
-https://livepantau.semarangkota.go.id/f8c50127-82db-4db2-95a6-09e60e970681/video1_stream.m3u8
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Tugumuda1
-https://livepantau.semarangkota.go.id/aceb3f67-76ea-443c-941d-0b27ad2bae9f/video1_stream.m3u8
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Tugumuda2
-https://livepantau.semarangkota.go.id/a89ba74a-fdd9-4192-ae00-a99adea38932/video1_stream.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Simpang Lima Semarang
 https://livepantau.semarangkota.go.id/60a2470e-dca8-4356-bb8a-5489e7bb0e15/video1_stream.m3u8
-
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Pucang Gading Semarang (barat)
 https://livepantau.semarangkota.go.id/b617b591-40c5-4c65-af49-6de63e39aa47/video1_stream.m3u8
@@ -8488,7 +8477,11 @@ https://livepantau.semarangkota.go.id/01f3980b-ff90-4505-8876-a3083767973a/video
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Jatingaleh Semarang HD2
 https://livepantau.semarangkota.go.id/de90b316-e86b-4833-b27a-fa5fa3cb5501/video1_stream.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Tugumuda1
+https://livepantau.semarangkota.go.id/aceb3f67-76ea-443c-941d-0b27ad2bae9f/video1_stream.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/1/refs/heads/main/100.jpg" group-title="04. TV Lokal[2025]",Tugumuda2
+https://livepantau.semarangkota.go.id/a89ba74a-fdd9-4192-ae00-a99adea38932/video1_stream.m3u8
 
 <----------------------------------------------LOKAL Plat K------------------------------------------------------------------------->
 
