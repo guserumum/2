@@ -1089,12 +1089,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png" group-title="01. TV Rumah[2025]", 18. CNN Indonesia
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="01. TV Rumah[2025]", 18. CNN Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w82829404_b384000_sleng.m3u8
 
 
-#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",19. CNBC Indonesia
+#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="CNBCIndonesia.id" tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",19. CNBC Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
@@ -1207,7 +1207,7 @@ https://live.livingjtv.live/jp78/playlist.m3u8?token=K2m6JkXJD0
 https://live.livingjtv.live/jp79/playlist.m3u8?token=K2m6JkXJD0
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",japan music tv
 https://live.livingjtv.live/jp80/playlist.m3u8?token=K2m6JkXJD0
-#EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="content.com/blogger_img_proxy/AEn0k_saCMx4hejeBtXsC51nhnZ1NT_AGtaFKWzKcVYGKhNWb6G_WnIt-73n6OaJdyTWH8-7ZC06xcGR_etRcpnVBEUc3cWZnIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pop
+#EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo=" https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svgIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pops
 https://live.livingjtv.live/jp81/playlist.m3u8?token=K2m6JkXJD0
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://yt3.googleusercontent.com/9PB9epbWtMCiwDqrpkomANhaRh9WElJsk8BOC5RuGeprbUGF_HEW7j-31sn4_KBufUQURBzJMF0=s512-c-k-c0x00ffffff-no-rj",neco
 https://live.livingjtv.live/jp49/playlist.m3u8?token=K2m6JkXJD0
@@ -2502,7 +2502,7 @@ https://live.livingjtv.live/jp78/playlist.m3u8?token=K2m6JkXJD0
 https://live.livingjtv.live/jp79/playlist.m3u8?token=K2m6JkXJD0
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",japan music tv
 https://live.livingjtv.live/jp80/playlist.m3u8?token=K2m6JkXJD0
-#EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="content.com/blogger_img_proxy/AEn0k_saCMx4hejeBtXsC51nhnZ1NT_AGtaFKWzKcVYGKhNWb6G_WnIt-73n6OaJdyTWH8-7ZC06xcGR_etRcpnVBEUc3cWZnIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pop
+#EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo=" https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svgIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pop
 https://live.livingjtv.live/jp81/playlist.m3u8?token=K2m6JkXJD0
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://yt3.googleusercontent.com/9PB9epbWtMCiwDqrpkomANhaRh9WElJsk8BOC5RuGeprbUGF_HEW7j-31sn4_KBufUQURBzJMF0=s512-c-k-c0x00ffffff-no-rj",neco
 https://live.livingjtv.live/jp49/playlist.m3u8?token=K2m6JkXJD0
@@ -12077,7 +12077,7 @@ https://live.livingjtv.live/jp78/playlist.m3u8?token=K2m6JkXJD0
 https://live.livingjtv.live/jp79/playlist.m3u8?token=K2m6JkXJD0
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",japan music tv
 https://live.livingjtv.live/jp80/playlist.m3u8?token=K2m6JkXJD0
-#EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="content.com/blogger_img_proxy/AEn0k_saCMx4hejeBtXsC51nhnZ1NT_AGtaFKWzKcVYGKhNWb6G_WnIt-73n6OaJdyTWH8-7ZC06xcGR_etRcpnVBEUc3cWZnIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pop
+#EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svgIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pop
 https://live.livingjtv.live/jp81/playlist.m3u8?token=K2m6JkXJD0
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://yt3.googleusercontent.com/9PB9epbWtMCiwDqrpkomANhaRh9WElJsk8BOC5RuGeprbUGF_HEW7j-31sn4_KBufUQURBzJMF0=s512-c-k-c0x00ffffff-no-rj",neco
 https://live.livingjtv.live/jp49/playlist.m3u8?token=K2m6JkXJD0
@@ -16499,20 +16499,32 @@ Https://www.googleapis.com/drive/v3/files/1-Xu8G7CJEEiL2fbfQYtiglTieZyJd4_l?alt=
 
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones", looney tones - coyote 01 (22)
-Https://www.googleapis.com/drive/v3/files/1nP5gUNYCJwz0v5a2lPptKwkHeCZEwyi2?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones", looney tones - coyote 02 (00)
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 01.mp4
+Https://www.googleapis.com/drive/v3/files/1X3F7VN5B9VTVEG1J8jTV2ozw1gBu0Ygk?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 02.mp4
+Https://www.googleapis.com/drive/v3/files/1eKh_mt6r4kxmlj-Z71cticaLImWL5_3j?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 03.mp4
+Https://www.googleapis.com/drive/v3/files/1VlBRE4EC5Re4cAwZtrrlmjUjwFvH_KRW?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 04.mp4
+Https://www.googleapis.com/drive/v3/files/1Mbhh_0LboDtZEQlTXII7_cYpE8k-zx0J?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 05.mp4
+Https://www.googleapis.com/drive/v3/files/151DhRHpIOJmteg92xqK-5468KDMWanq9?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 06.mp4
+Https://www.googleapis.com/drive/v3/files/1ONSgAXY1dGjIIJ-MVent3niO4gA0rvxp?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 07.mp4
+Https://www.googleapis.com/drive/v3/files/1jmXuwG0ym4ABo4GbhuynXeMehdq3JpdS?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 08.mp4
+Https://www.googleapis.com/drive/v3/files/1Tj29fkHsP77ZEuVdGTv3xVy6f1VLJ7KI?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",coyote classic 09.mp4
+Https://www.googleapis.com/drive/v3/files/1mFIjUpUeVnaYmgclRH5AKjD2eAgvuTD1?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",LT_SS_ROADRUNNER_WILE_E_COYOTE00.mp4
 Https://www.googleapis.com/drive/v3/files/1YSs4zUJAwn5dRyjrauY3vaTima9Uw0DJ?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones", looney tones - coyote 03 (01)
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",LT_SS_ROADRUNNER_WILE_E_COYOTE01.mp4
 Https://www.googleapis.com/drive/v3/files/1m7lqD90lNeIEHi-5jOIYFshVnMBWNYUb?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones", looney tones - coyote 04 (12)
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",LT_SS_ROADRUNNER_WILE_E_COYOTE12.mp4
 Https://www.googleapis.com/drive/v3/files/1vH-IedBdoFvovWu5JbHKLzEPaL2A0khW?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="15.30-16.00 - looney tones",LT_SS_ROADRUNNER_WILE_E_COYOTE22.mp4
+Https://www.googleapis.com/drive/v3/files/1nP5gUNYCJwz0v5a2lPptKwkHeCZEwyi2?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
 
 
 <=============================================================================================================================>
@@ -18580,6 +18592,5 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="01. Indonesia STB (Tivimate-Dens)",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
 
 
