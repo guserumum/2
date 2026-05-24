@@ -866,9 +866,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2025]", Indosiar (VD)
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/205/file/stream.mpd
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2025]", Indosiar (nextgenz)
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 
 <----------------------------------------------------------------------------------------------------------------------->
@@ -880,7 +879,8 @@ https://
 https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2025]", Indosiar (nextgenz)
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/205/file/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2025]",02. Indosiar (dens01)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
