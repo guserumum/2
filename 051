@@ -12360,18 +12360,17 @@ https://krtv.douga.live/ch61/playlist.m3u8?token=M7VMdfn2WH
 https://krtv.douga.live/ch62/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ",k63 sbs
-https://krtv.douga.live/ch63/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/sbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ",k64 jtbc
-https://krtv.douga.live/ch64/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/jtbc/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ",k65 tvn
-https://krtv.douga.live/ch65/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/tvn/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ",k66 mnet
-https://krtv.douga.live/ch66/playlist.m3u8?token=M7VMdfn2WH
-
+http://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
 
 
 
