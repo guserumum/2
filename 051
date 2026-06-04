@@ -12139,7 +12139,7 @@ http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v8ioTzmtpHAaAEci4KBoB6fVLcSy2lWfs0xm_W0FjIZgd6GcINpGtRzNbDeLJPivWXse1VXta2SH2dNA1AEfPgOMef=w256-h256-p-k-no-nu",toei
 http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uVhzKqnWKvxkElrzYyXjL-0F34j_xzJqbJNt8K8voJl17hh4_APTs1LOEMjvhYlozcW_Clou2PcEe1Mno2lmljB3izGVKdKY0dVIfQpjtoZWv6n0r82otP1mw5CM2pEsGPjGm0IdvSQ9JvUmwOjdqhGr5ik9TQsd-EM4NdSbGy5flPeAdiGdIjOAui6-joZPdY-uS8eMW-Wco4NCKtZm6m4MjLTjTsurSoucdkgXy-aWI7CUBUgXCmOfpPIUSZAxEvM3ApyC_Y84dgLjGTgeHumUTQPV9noL4JRh1KQArpdfPs76IhiBcpbw=w256-h256-p-k-no-nu",nihon eigasenmon
-https://
+http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Family_Gekijo_logo.png/250px-Family_Gekijo_logo.png",family gekijo
 https://live.livingjtv.live/jp53/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uGlFyd0eUSl20NsqWs7zqaHIT_NPbt3oGZ-ZJTswupM2wnoeoY1Bj5DUXcjr-JOq-adKtx7-H-ItZIUaNzBJYLMEgStN4ydPxdrH0MAOFErz-pnC8f8HMq1a7pVSO8BHFtveZ6dLu5jRmxEfhQ=w128-h128-p-k-no-nu",Takarazuka Sky Stage
@@ -19070,8 +19070,44 @@ Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",🤍🤍🤍02. Doyok Kadir🤍🤍🤍
 Https://
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",Boleh dong untung terus
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia", Boleh Dong Untung Terus (1992).mp4 
 Https://www.googleapis.com/drive/v3/files/1iuV9h4L_EFOJaf3E8pJU7ESh_pWBE_7Q?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia", BOLEH-DONG-UNTUNG-TERUS-1992.mp4 
+Https://www.googleapis.com/drive/v3/files/17ixA1EypqZ_19SwwXA9WLJd880Y0swf1?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia", Kadir Doyok - Boleh Dong Untung Terus.mp4 
+Https://www.googleapis.com/drive/v3/files/1nubeYdSA1D4UjkbpKelrQmUsrd_M_KS1?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia", 1990 Antri Dong.mp4 
+Https://www.googleapis.com/drive/v3/files/1JkMAeNlV_eiEPdVOm42YLsPu8ZKgxZ5w?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia", Kanan Kiri OK II (1989).mp4 
+Https://www.googleapis.com/drive/v3/files/14T7X0wf1bz2w_r7LcmTMkm_-iaKJGIIh?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia", Kanan Kiri OK III (1990).mp4 
+Https://www.googleapis.com/drive/v3/files/1iTc6LZ0fQh3p8KayuZa9naujXPW_J9pb?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia", 1990 Ikut Ikutan.mp4 
+Https://www.googleapis.com/drive/v3/files/1afWHUuxLI9dpxI6-y4VeWvd7HQBmZcWG?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia", Cintaku di Rumah Susun (1987).mp4 
+Https://www.googleapis.com/drive/v3/files/1tB_DGqDsxl4vAoXrsR6OGB5TP0TM2SMN?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="21.30-23.00 - Cinema Komedi Indonesia",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+
 
 
 <=============================================================================================================================>
