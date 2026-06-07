@@ -1202,21 +1202,22 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SPACE_SHOWER_TV.jpg/500px-SPACE_SHOWER_TV.jpg",space shower
-https://live.livingjtv.live/jp76/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",mtv japan
-https://live.livingjtv.live/jp77/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg",music on tv
-https://live.livingjtv.live/jp78/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://www.musicair.co.jp/wp-content/uploads/ma_logo.png",music air
 https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",japan music tv
-https://live.livingjtv.live/jp80/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo=" https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svgIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pops
-https://live.livingjtv.live/jp81/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://yt3.googleusercontent.com/9PB9epbWtMCiwDqrpkomANhaRh9WElJsk8BOC5RuGeprbUGF_HEW7j-31sn4_KBufUQURBzJMF0=s512-c-k-c0x00ffffff-no-rj",neco
-https://live.livingjtv.live/jp49/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v8ioTzmtpHAaAEci4KBoB6fVLcSy2lWfs0xm_W0FjIZgd6GcINpGtRzNbDeLJPivWXse1VXta2SH2dNA1AEfPgOMef=w256-h256-p-k-no-nu",toei
-https://live.livingjtv.live/jp47/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uVhzKqnWKvxkElrzYyXjL-0F34j_xzJqbJNt8K8voJl17hh4_APTs1LOEMjvhYlozcW_Clou2PcEe1Mno2lmljB3izGVKdKY0dVIfQpjtoZWv6n0r82otP1mw5CM2pEsGPjGm0IdvSQ9JvUmwOjdqhGr5ik9TQsd-EM4NdSbGy5flPeAdiGdIjOAui6-joZPdY-uS8eMW-Wco4NCKtZm6m4MjLTjTsurSoucdkgXy-aWI7CUBUgXCmOfpPIUSZAxEvM3ApyC_Y84dgLjGTgeHumUTQPV9noL4JRh1KQArpdfPs76IhiBcpbw=w256-h256-p-k-no-nu",nihon eigasenmon
 https://
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Family_Gekijo_logo.png/250px-Family_Gekijo_logo.png",family gekijo
@@ -2497,21 +2498,22 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 
 
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SPACE_SHOWER_TV.jpg/500px-SPACE_SHOWER_TV.jpg",space shower
-https://live.livingjtv.live/jp76/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",mtv japan
-https://live.livingjtv.live/jp77/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg",music on tv
-https://live.livingjtv.live/jp78/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://www.musicair.co.jp/wp-content/uploads/ma_logo.png",music air
 https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",japan music tv
-https://live.livingjtv.live/jp80/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo=" https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svgIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pop
-https://live.livingjtv.live/jp81/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://yt3.googleusercontent.com/9PB9epbWtMCiwDqrpkomANhaRh9WElJsk8BOC5RuGeprbUGF_HEW7j-31sn4_KBufUQURBzJMF0=s512-c-k-c0x00ffffff-no-rj",neco
-https://live.livingjtv.live/jp49/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v8ioTzmtpHAaAEci4KBoB6fVLcSy2lWfs0xm_W0FjIZgd6GcINpGtRzNbDeLJPivWXse1VXta2SH2dNA1AEfPgOMef=w256-h256-p-k-no-nu",toei
-https://live.livingjtv.live/jp47/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uVhzKqnWKvxkElrzYyXjL-0F34j_xzJqbJNt8K8voJl17hh4_APTs1LOEMjvhYlozcW_Clou2PcEe1Mno2lmljB3izGVKdKY0dVIfQpjtoZWv6n0r82otP1mw5CM2pEsGPjGm0IdvSQ9JvUmwOjdqhGr5ik9TQsd-EM4NdSbGy5flPeAdiGdIjOAui6-joZPdY-uS8eMW-Wco4NCKtZm6m4MjLTjTsurSoucdkgXy-aWI7CUBUgXCmOfpPIUSZAxEvM3ApyC_Y84dgLjGTgeHumUTQPV9noL4JRh1KQArpdfPs76IhiBcpbw=w256-h256-p-k-no-nu",nihon eigasenmon
 https://
 #EXTINF:-1 group-title="02. TV Parabola[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Family_Gekijo_logo.png/250px-Family_Gekijo_logo.png",family gekijo
@@ -12123,17 +12125,18 @@ https://
 <================================================================================================================>
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SPACE_SHOWER_TV.jpg/500px-SPACE_SHOWER_TV.jpg",space shower l
-https://live.livingjtv.live/jp76/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SPACE_SHOWER_TV.jpg/500px-SPACE_SHOWER_TV.jpg",space shower a
 http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",mtv japan l
-https://live.livingjtv.live/jp77/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",mtv japan a
 http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg",music on tv l
-https://live.livingjtv.live/jp78/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg",music on tv a
 http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
@@ -12141,22 +12144,22 @@ http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg", japan music tv l
-https://live.livingjtv.live/jp80/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg", japan music tv a
 http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svgIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pop l
-https://live.livingjtv.live/jp81/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svgIv0afNUC-XFztco81xMSHvJ_xrMU2ZhXwHH3ha_XUrPT0RqmHjPkIfIyg=w128-h128-p-k-no-nu",kayo pop a
 http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://yt3.googleusercontent.com/9PB9epbWtMCiwDqrpkomANhaRh9WElJsk8BOC5RuGeprbUGF_HEW7j-31sn4_KBufUQURBzJMF0=s512-c-k-c0x00ffffff-no-rj",neco l
-https://live.livingjtv.live/jp49/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://yt3.googleusercontent.com/9PB9epbWtMCiwDqrpkomANhaRh9WElJsk8BOC5RuGeprbUGF_HEW7j-31sn4_KBufUQURBzJMF0=s512-c-k-c0x00ffffff-no-rj",neco a
 http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v8ioTzmtpHAaAEci4KBoB6fVLcSy2lWfs0xm_W0FjIZgd6GcINpGtRzNbDeLJPivWXse1VXta2SH2dNA1AEfPgOMef=w256-h256-p-k-no-nu",toei l
-https://live.livingjtv.live/jp47/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v8ioTzmtpHAaAEci4KBoB6fVLcSy2lWfs0xm_W0FjIZgd6GcINpGtRzNbDeLJPivWXse1VXta2SH2dNA1AEfPgOMef=w256-h256-p-k-no-nu",toei a
 http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 
@@ -12267,11 +12270,11 @@ https://live.livingjtv.live/jp45/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 46 disney
 https://live.livingjtv.live/jp46/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 47 toei
-https://live.livingjtv.live/jp47/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 48 v
 https://live.livingjtv.live/jp48/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 49 neco
-https://live.livingjtv.live/jp49/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 50 the cinema
 https://live.livingjtv.live/jp50/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 51 m
@@ -12325,17 +12328,18 @@ https://live.livingjtv.live/jp74/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 75 tele next
 https://live.livingjtv.live/jp75/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 76 space shower
-https://live.livingjtv.live/jp76/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 77 mtv japan
-https://live.livingjtv.live/jp77/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 78 music on tv
-https://live.livingjtv.live/jp78/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 79 music air
 https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 80 japan music tv
-https://live.livingjtv.live/jp80/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 81 kayo pop
-https://live.livingjtv.live/jp81/playlist.m3u8?token=M7VMdfn2WH
+http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 82 kids station
 https://live.livingjtv.live/jp82/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 83 v
