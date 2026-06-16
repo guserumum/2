@@ -1763,6 +1763,34 @@ http://202.169.224.202:8800/udp/239.9.1.12:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="02. TV Parabola[2025]", Citra entertainment (udp)
 http://202.169.224.202:8800/udp/239.9.1.27:1234
 
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+http://iptvtree.net:8080/F25660/4184162c/298526
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+http://iptvtree.net:8080/F25660/4184162c/298513
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
+http://iptvtree.net:8080/F25660/4184162c/298514 
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
+http://iptvtree.net:8080/F25660/4184162c/298529 
+
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
+http://iptvtree.net:8080/F25660/4184162c/298503
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
+http://iptvtree.net:8080/F25660/4184162c/298506
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
+http://iptvtree.net:8080/F25660/4184162c/298510
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
+http://iptvtree.net:8080/F25660/4184162c/298516
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
+http://iptvtree.net:8080/F25660/4184162c/298535
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
+http://iptvtree.net:8080/F25660/4184162c/298548
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
+http://iptvtree.net:8080/F25660/4184162c/298550 
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 re
+http://iptvtree.net:8080/F25660/4184162c/298565
+#EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
+http://iptvtree.net:8080/F25660/4184162c/298581
+
 #EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myca.png",38. My Cinema Asia HD (d index)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -5397,6 +5425,38 @@ http://202.169.224.202:8800/udp/239.9.1.12:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="03. TV Kabel[2025]", Citra entertainment (udp)
 http://202.169.224.202:8800/udp/239.9.1.27:1234
 
+
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+http://iptvtree.net:8080/F25660/4184162c/298526
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+http://iptvtree.net:8080/F25660/4184162c/298513
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
+http://iptvtree.net:8080/F25660/4184162c/298514 
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
+http://iptvtree.net:8080/F25660/4184162c/298529 
+
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
+http://iptvtree.net:8080/F25660/4184162c/298503
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
+http://iptvtree.net:8080/F25660/4184162c/298506
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
+http://iptvtree.net:8080/F25660/4184162c/298510
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
+http://iptvtree.net:8080/F25660/4184162c/298516
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
+http://iptvtree.net:8080/F25660/4184162c/298535
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
+http://iptvtree.net:8080/F25660/4184162c/298548
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
+http://iptvtree.net:8080/F25660/4184162c/298550 
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 re
+http://iptvtree.net:8080/F25660/4184162c/298565
+#EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
+http://iptvtree.net:8080/F25660/4184162c/298581
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1025wXB/CNetwork.jpg" group-title="03. TV Kabel[2025]", CARTOON NETWORK
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157593
 
@@ -5690,6 +5750,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TV2.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="03. TV Kabel[2025]",TV3 (576p)
+https://m3u.chanox97.workers.dev/tv3.m3u8
 
 
 #EXTINF:-1 group-title="03. TV Kabel[2025]" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1 (mt)
@@ -12497,6 +12560,8 @@ http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2025]" tvg-id="cs27" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_44.png",Toei Channel
 http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="06. TV Japan[2025]" tvg-id="v_paradise" tvg-logo="https://xuanzi-storage.netgenx.site/",V Paradise NSFW
+http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png",Weather News
 http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
@@ -12699,6 +12764,9 @@ https://live.livingjtv.live/jp95/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 96 tbs
 https://live.livingjtv.live/jp96/playlist.m3u8?token=M7VMdfn2WH
 
+
+#EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", akariko.netgenx.site v paradise_nsfw
+http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 group-title="06. TV Japan[2025]" ch-number="68" tvg-logo=" ", test 98 ce
