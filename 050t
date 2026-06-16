@@ -407,3 +407,24 @@ http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (720p) http
 http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="bonus:trans",TV3 (576p)
+https://m3u.chanox97.workers.dev/tv3.m3u8
+
+
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo=" " group-title="bonus:trans",TVq
+https://m3u.chanox97.workers.dev/tv1.m3u8
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo=" " group-title="bonus:trans",TVq
+https://m3u.chanox97.workers.dev/tv2.m3u8
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo=" " group-title="bonus:trans",TVq
+https://m3u.chanox97.workers.dev/tv3.m3u8
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo=" " group-title="bonus:trans",TVq
+https://m3u.chanox97.workers.dev/tv6.m3u8
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo=" " group-title="bonus:trans",TVq
+https://m3u.chanox97.workers.dev/tv7.m3u8
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo=" " group-title="bonus:trans",TVq
+https://m3u.chanox97.workers.dev/tv8.m3u8
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo=" " group-title="bonus:trans",TVq
+https://m3u.chanox97.workers.dev/tv9.m3u8
