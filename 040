@@ -1,1 +1,4 @@
 
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" status="online",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
