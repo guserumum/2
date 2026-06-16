@@ -408,219 +408,31 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (720p) http
 http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-
-
-
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 00 
-http://iptvtree.net:8080/F25660/4184162c/298500    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 01 
-http://iptvtree.net:8080/F25660/4184162c/298501    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 02 
-http://iptvtree.net:8080/F25660/4184162c/298502    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
-http://iptvtree.net:8080/F25660/4184162c/298503    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 04 
-http://iptvtree.net:8080/F25660/4184162c/298504    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 05 
-http://iptvtree.net:8080/F25660/4184162c/298505    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
-http://iptvtree.net:8080/F25660/4184162c/298506    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 07 
-http://iptvtree.net:8080/F25660/4184162c/298507    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 08 
-http://iptvtree.net:8080/F25660/4184162c/298508    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 09 
-http://iptvtree.net:8080/F25660/4184162c/298509    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
-http://iptvtree.net:8080/F25660/4184162c/298510    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 11 
-http://iptvtree.net:8080/F25660/4184162c/298511    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 12 
-http://iptvtree.net:8080/F25660/4184162c/298512    
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+http://iptvtree.net:8080/F25660/4184162c/298526
 #EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
-http://iptvtree.net:8080/F25660/4184162c/298513    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv1
-http://iptvtree.net:8080/F25660/4184162c/298514    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 15 
-http://iptvtree.net:8080/F25660/4184162c/298515    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
-http://iptvtree.net:8080/F25660/4184162c/298516    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 17 
-http://iptvtree.net:8080/F25660/4184162c/298517    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 18 
-http://iptvtree.net:8080/F25660/4184162c/298518    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 19 
-http://iptvtree.net:8080/F25660/4184162c/298519    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 20 
-http://iptvtree.net:8080/F25660/4184162c/298520    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 21 
-http://iptvtree.net:8080/F25660/4184162c/298521    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 22 
-http://iptvtree.net:8080/F25660/4184162c/298522    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 23 
-http://iptvtree.net:8080/F25660/4184162c/298523    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 24 
-http://iptvtree.net:8080/F25660/4184162c/298524    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 25 
-http://iptvtree.net:8080/F25660/4184162c/298525    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv3
-http://iptvtree.net:8080/F25660/4184162c/298526    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 27 
-http://iptvtree.net:8080/F25660/4184162c/298527    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 28 
-http://iptvtree.net:8080/F25660/4184162c/298528    
+http://iptvtree.net:8080/F25660/4184162c/298513
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
+http://iptvtree.net:8080/F25660/4184162c/298514 
 #EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
-http://iptvtree.net:8080/F25660/4184162c/298529    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30 
-http://iptvtree.net:8080/F25660/4184162c/298530    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 31 
-http://iptvtree.net:8080/F25660/4184162c/298531    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 32 
-http://iptvtree.net:8080/F25660/4184162c/298532    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 33 
-http://iptvtree.net:8080/F25660/4184162c/298533    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 34 
-http://iptvtree.net:8080/F25660/4184162c/298534    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
-http://iptvtree.net:8080/F25660/4184162c/298535    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 36 
-http://iptvtree.net:8080/F25660/4184162c/298536    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 37 
-http://iptvtree.net:8080/F25660/4184162c/298537    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 38 
-http://iptvtree.net:8080/F25660/4184162c/298538    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 39 
-http://iptvtree.net:8080/F25660/4184162c/298539    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 40 
-http://iptvtree.net:8080/F25660/4184162c/298540    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 41 
-http://iptvtree.net:8080/F25660/4184162c/298541    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 42 
-http://iptvtree.net:8080/F25660/4184162c/298542    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 43 
-http://iptvtree.net:8080/F25660/4184162c/298543    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 44 
-http://iptvtree.net:8080/F25660/4184162c/298544    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 45 
-http://iptvtree.net:8080/F25660/4184162c/298545    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 46 
-http://iptvtree.net:8080/F25660/4184162c/298546    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 47 
-http://iptvtree.net:8080/F25660/4184162c/298547    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
-http://iptvtree.net:8080/F25660/4184162c/298548    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 49 
-http://iptvtree.net:8080/F25660/4184162c/298549    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
-http://iptvtree.net:8080/F25660/4184162c/298550    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 51 
-http://iptvtree.net:8080/F25660/4184162c/298551    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 52 
-http://iptvtree.net:8080/F25660/4184162c/298552    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 53 
-http://iptvtree.net:8080/F25660/4184162c/298553    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 54 
-http://iptvtree.net:8080/F25660/4184162c/298554    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 55 
-http://iptvtree.net:8080/F25660/4184162c/298555    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 56 
-http://iptvtree.net:8080/F25660/4184162c/298556    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 57 
-http://iptvtree.net:8080/F25660/4184162c/298557    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 58 
-http://iptvtree.net:8080/F25660/4184162c/298558    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 59 
-http://iptvtree.net:8080/F25660/4184162c/298559    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 60 
-http://iptvtree.net:8080/F25660/4184162c/298560    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 61 
-http://iptvtree.net:8080/F25660/4184162c/298561    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 62 
-http://iptvtree.net:8080/F25660/4184162c/298562    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 63 
-http://iptvtree.net:8080/F25660/4184162c/298563    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 64 
-http://iptvtree.net:8080/F25660/4184162c/298564    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 re
-http://iptvtree.net:8080/F25660/4184162c/298565    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 66 
-http://iptvtree.net:8080/F25660/4184162c/298566    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 67 
-http://iptvtree.net:8080/F25660/4184162c/298567    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 68 
-http://iptvtree.net:8080/F25660/4184162c/298568    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 69 
-http://iptvtree.net:8080/F25660/4184162c/298569    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 70 
-http://iptvtree.net:8080/F25660/4184162c/298570    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 71 
-http://iptvtree.net:8080/F25660/4184162c/298571    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 72 
-http://iptvtree.net:8080/F25660/4184162c/298572    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 73 
-http://iptvtree.net:8080/F25660/4184162c/298573    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 74 
-http://iptvtree.net:8080/F25660/4184162c/298574    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 75 
-http://iptvtree.net:8080/F25660/4184162c/298575    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 76 
-http://iptvtree.net:8080/F25660/4184162c/298576    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 77 
-http://iptvtree.net:8080/F25660/4184162c/298577    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 78 
-http://iptvtree.net:8080/F25660/4184162c/298578    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 79 
-http://iptvtree.net:8080/F25660/4184162c/298579    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 80 
-http://iptvtree.net:8080/F25660/4184162c/298580    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
-http://iptvtree.net:8080/F25660/4184162c/298581    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 82 
-http://iptvtree.net:8080/F25660/4184162c/298582    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 83 
-http://iptvtree.net:8080/F25660/4184162c/298583    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 84 
-http://iptvtree.net:8080/F25660/4184162c/298584    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 85 
-http://iptvtree.net:8080/F25660/4184162c/298585    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 86 
-http://iptvtree.net:8080/F25660/4184162c/298586    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 87 
-http://iptvtree.net:8080/F25660/4184162c/298587    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 88 
-http://iptvtree.net:8080/F25660/4184162c/298588    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 89 
-http://iptvtree.net:8080/F25660/4184162c/298589    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 90 
-http://iptvtree.net:8080/F25660/4184162c/298590    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 91 
-http://iptvtree.net:8080/F25660/4184162c/298591    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 92 
-http://iptvtree.net:8080/F25660/4184162c/298592    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 93 
-http://iptvtree.net:8080/F25660/4184162c/298593    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 94 
-http://iptvtree.net:8080/F25660/4184162c/298594    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 95 
-http://iptvtree.net:8080/F25660/4184162c/298595    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 96 
-http://iptvtree.net:8080/F25660/4184162c/298596    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 97 
-http://iptvtree.net:8080/F25660/4184162c/298597    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 98 
-http://iptvtree.net:8080/F25660/4184162c/298598    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 99 
-http://iptvtree.net:8080/F25660/4184162c/298599    
-#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 100 
-http://iptvtree.net:8080/F25660/4184162c/298600    
-      
-      
-      
-      
-      
-      
-      
-      
-      
+http://iptvtree.net:8080/F25660/4184162c/298529 
 
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
+http://iptvtree.net:8080/F25660/4184162c/298503
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
+http://iptvtree.net:8080/F25660/4184162c/298506
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
+http://iptvtree.net:8080/F25660/4184162c/298510
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
+http://iptvtree.net:8080/F25660/4184162c/298516
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
+http://iptvtree.net:8080/F25660/4184162c/298535
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
+http://iptvtree.net:8080/F25660/4184162c/298548
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
+http://iptvtree.net:8080/F25660/4184162c/298550 
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 re
+http://iptvtree.net:8080/F25660/4184162c/298565
+#EXTINF:-1 group-title="bonus:trans" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
+http://iptvtree.net:8080/F25660/4184162c/298581
 
