@@ -4487,6 +4487,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/440px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="02. TV Parabola[2025]",102=TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="02. TV Parabola[2025]",TV3 (576p)
+https://m3u.chanox97.workers.dev/tv3.m3u8
+
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="02. TV Parabola[2025]",104-Okey RTM [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
@@ -5709,6 +5712,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="03. TV Kabel[2025]",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="03. TV Kabel[2025]",TV3 (576p)
+https://m3u.chanox97.workers.dev/tv3.m3u8
 
 #################################################################################################################################################
 
