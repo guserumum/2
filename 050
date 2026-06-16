@@ -1015,11 +1015,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 
-#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="Trans7.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (720p) https
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (720p) https
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="Trans7.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (720p) http
-http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (720p) http
+http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="10" tvg-logo="https://static.mncnow.id/images/channel/dea3544d/0e5f_r32.jpg",06. TransTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -1043,11 +1043,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2025]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",07. TVOne (dens02)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
-#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (720p) https
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (720p) http
-http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="Trans7.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (720p) https
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="Trans7.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (720p) http
+http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="01. TV Rumah[2025]" ch-number="11" tvg-logo="https://static.mncnow.id/images/channel/18e2eeff/59e0_r32.jpg",07. Trans7 (d360)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1900799308_b344100_sleng.m3u8
@@ -4452,6 +4455,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163923.ts
 
 
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="02. TV Parabola[2025]",TV3 (576p)
+https://m3u.chanox97.workers.dev/tv3.m3u8
+
+
 #EXTINF:-1 group-title="02. TV Parabola[2025]" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
@@ -4557,6 +4564,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/440px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="02. TV Parabola[2025]",102=TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="02. TV Parabola[2025]",TV3 (576p)
+https://m3u.chanox97.workers.dev/tv3.m3u8
 
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="02. TV Parabola[2025]",104-Okey RTM [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
@@ -5780,6 +5790,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="03. TV Kabel[2025]",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="TV3.my@SD" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="03. TV Kabel[2025]",TV3 (576p)
+https://m3u.chanox97.workers.dev/tv3.m3u8
 
 #################################################################################################################################################
 
