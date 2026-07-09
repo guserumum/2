@@ -862,7 +862,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2025]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (dens 01)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV (dens 01)
+#EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV (nextgenz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://nextgenz.my.id/event/pidio/play.m3u8?id=777&type=hls
@@ -885,7 +885,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #EXTINF:-1 group-title="01. TV Rumah[2025]" tvg-logo="",💛💛💛TV RUMAH💛💛💛
 https://
 
-#EXTINF:-1 group-title="01. TV Rumah[2025]"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (VD)
+#EXTINF:-1 group-title="01. TV Rumah[2025]"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (nexgentz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
 
