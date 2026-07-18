@@ -5463,6 +5463,16 @@ https://xemzi.short.gy/1000001
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 2
 https://xemzi.short.gy/1000002
 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+http://185.102.171.218/BBCEarth/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo=" ",film_plus
 http://185.98.211.8:81/film_plus/index.m3u8?token=test
@@ -17092,6 +17102,12 @@ https://xemzi.short.gy/1000001
 
 #EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 2
 https://xemzi.short.gy/1000002
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+http://185.102.171.218/BBCEarth/index.m3u8
 
 # =====================================================> Trial indihometv ===========================================>
 
