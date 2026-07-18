@@ -2962,6 +2962,37 @@ http://185.98.211.8:81/hbo3/index.m3u8?token=test
 http://185.98.211.8:81/cinemax/index.m3u8?token=test
 
 
+
+
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc126/bbcearthhdraw/bbcearthhdraw.m3u8
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://tv.ddns.vn/tv/bbcearth/index.m3u8
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+http://185.102.171.218/BBCEarth/index.m3u8
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+http://66.102.120.18:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+http://103.178.78.151:7505/play/a0vu/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 1
 https://xemzi.short.gy/1000001
 
