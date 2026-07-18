@@ -1,0 +1,71 @@
+
+
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (nextgenz)
+https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
+
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (dens 01)
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV (nextgenz)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://nextgenz.my.id/event/pidio/play.m3u8?id=777&type=hls
+
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV (dens 01)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png",03. MNC TV (R+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]", Indosiar (nextgenz)
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+
+
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",[ ▶️▶️▶️ PLAY ALL ]
+Https://www.googleapis.com/drive/v3/files/158ZOxQBixLh1d_O6uxdtObgcFsEtG33f?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",
+Https://www.googleapis.com/drive/v3/files/1obuAb3_lvd2PvB0EE2h1wQMSEhObYGl9?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",
+Https://www.googleapis.com/drive/v3/files/1LuyZTJ25GTeQ8kW5bw9K-adzM0k-_6QB?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",
+Https://www.googleapis.com/drive/v3/files/12AJj0l2g43wpwkPeZQALGbBcKynBx7PD?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",
+https://www.googleapis.com/drive/v3/files/1rSd-xxiCf9eWjoM-gNF-lwOoX5gdDdOM?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+<==================================================================================================================================>
+
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",A01. Fight Back To School 1 (1991) HD Dubbing Bahasa Indonesia - Klasikin Doeloe (1080p, h264).mp4
+Https://www.googleapis.com/drive/v3/files/1LBH5P_Beg9vMsN2WPIilLgggONGWW2Y9?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",A02. Fight Back to School II (1992) Dubbing Bahasa Indonesia.mp4
+Https://www.googleapis.com/drive/v3/files/15TocNSOLYkeC58HgYFZ9cZyBpQwDE3XP?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="20.30-21.30 - Cinema Mandarin",A03. Fight Back to School III (1993) 720p Dubbing Bahasa Indonesia.mp4
+Https://www.googleapis.com/drive/v3/files/1-Jle_eCX4GbeLuorZBqtbX3f9KYKrfyU?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+
+
+
