@@ -1772,7 +1772,8 @@ http://iptvtree.net:8080/F25660/4184162c/298550
 http://iptvtree.net:8080/F25660/4184162c/298565
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
 http://iptvtree.net:8080/F25660/4184162c/298581
-
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="02. TV Parabola[2026]", Celestial Movies
 http://202.169.224.202:8800/udp/239.9.1.23:1234
@@ -5302,6 +5303,36 @@ https://
 <================================================================================================================>
 
 ################################################################IndihomeTV#############################################################
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+http://iptvtree.net:8080/F25660/4184162c/298526
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+http://iptvtree.net:8080/F25660/4184162c/298513
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
+http://iptvtree.net:8080/F25660/4184162c/298514 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
+http://iptvtree.net:8080/F25660/4184162c/298529 
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
+http://iptvtree.net:8080/F25660/4184162c/298503
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
+http://iptvtree.net:8080/F25660/4184162c/298506
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
+http://iptvtree.net:8080/F25660/4184162c/298510
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
+http://iptvtree.net:8080/F25660/4184162c/298516
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
+http://iptvtree.net:8080/F25660/4184162c/298535
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
+http://iptvtree.net:8080/F25660/4184162c/298548
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
+http://iptvtree.net:8080/F25660/4184162c/298550 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 re
+http://iptvtree.net:8080/F25660/4184162c/298565
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
+http://iptvtree.net:8080/F25660/4184162c/298581
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="03. TV Kabel[2026]", Celestial Movies
