@@ -1795,6 +1795,24 @@ http://202.150.161.212:5000/live/channel07/playlist.m3u8
 http://202.150.161.212:5000/live/channel08/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 09
 http://202.150.161.212:5000/live/channel09/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 01
+http://202.150.161.212:5000/live/channel1/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 02
+http://202.150.161.212:5000/live/channel2/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03
+http://202.150.161.212:5000/live/channel3/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 04
+http://202.150.161.212:5000/live/channel4/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 05
+http://202.150.161.212:5000/live/channel5/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06
+http://202.150.161.212:5000/live/channel6/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 07
+http://202.150.161.212:5000/live/channel7/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 08
+http://202.150.161.212:5000/live/channel8/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 09
+http://202.150.161.212:5000/live/channel9/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10
 http://202.150.161.212:5000/live/channel10/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 11
