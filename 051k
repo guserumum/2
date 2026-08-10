@@ -1774,6 +1774,31 @@ http://iptvtree.net:8080/F25660/4184162c/298565
 http://iptvtree.net:8080/F25660/4184162c/298581
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", bioskop indonesia
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 31
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 32
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30
+http://202.150.161.212:5000/live/channel36/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30
+http://202.150.161.212:5000/live/channel37/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 30
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 40
+http://202.150.161.212:5000/live/channel40/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="02. TV Parabola[2026]", Celestial Movies
 http://202.169.224.202:8800/udp/239.9.1.23:1234
@@ -5582,37 +5607,7 @@ http://202.169.224.202:8800/udp/239.9.1.15:1234
 http://202.169.224.202:8800/udp/239.9.1.12:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="03. TV Kabel[2026]", Citra entertainment (udp)
 http://202.169.224.202:8800/udp/239.9.1.27:1234
-
-
-
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
-http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
-http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
-http://iptvtree.net:8080/F25660/4184162c/298514 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
-http://iptvtree.net:8080/F25660/4184162c/298529 
-
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
-http://iptvtree.net:8080/F25660/4184162c/298503
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
-http://iptvtree.net:8080/F25660/4184162c/298506
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
-http://iptvtree.net:8080/F25660/4184162c/298510
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
-http://iptvtree.net:8080/F25660/4184162c/298516
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
-http://iptvtree.net:8080/F25660/4184162c/298535
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
-http://iptvtree.net:8080/F25660/4184162c/298548
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
-http://iptvtree.net:8080/F25660/4184162c/298550 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 re
-http://iptvtree.net:8080/F25660/4184162c/298565
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
-http://iptvtree.net:8080/F25660/4184162c/298581
-
+          
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1025wXB/CNetwork.jpg" group-title="03. TV Kabel[2026]", CARTOON NETWORK
@@ -12424,6 +12419,30 @@ https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",nhk world
 https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/9fa6ed96d14643b974161813fcecb801cae7f22afcd40cb156763780c6446a35/v4.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="tvosaka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaccQOMkTprsTW9-IiHGPNvJog9crWIpCL3qwm7b0lKg&s=10", TV Osaka 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+
+
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORLD JAPAN
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+
 
 
 
