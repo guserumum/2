@@ -12373,6 +12373,28 @@ https://
 <================================================================================================================>
 <================================================================================================================>
 
+
+
+
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",tv asahi
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",tv tokyo
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",fuji tv
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",nhk g
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",ntv
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",n24
+https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",tbs
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",nhk world
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/9fa6ed96d14643b974161813fcecb801cae7f22afcd40cb156763780c6446a35/v4.m3u8
+
+
+
 #EXTINF:-1 group-title="06. TV Japan[2026]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SPACE_SHOWER_TV.jpg/500px-SPACE_SHOWER_TV.jpg",space shower l
 http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
 
