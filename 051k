@@ -1001,9 +1001,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Magna TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Nusantara TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",BTV
@@ -1656,6 +1658,7 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s16/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h226/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h226/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", DW
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h213/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 monde
 https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
@@ -5292,6 +5295,7 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s16/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h226/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h226/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", DW
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h213/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 monde
 https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
