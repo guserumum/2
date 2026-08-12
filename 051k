@@ -1631,30 +1631,40 @@ https://
 
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CNA
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h29/02.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK w
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CCTV 4
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CGTN doc
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h04/02.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Quran
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Quran TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/02.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Sunnah
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Sunnah TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h38/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Aljazera e
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h43/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Aljazera  a
+https://op-flashcon-digdayahd-1.dens.tv/s/s16/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/s/s16/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", RT
 https://op-flashcon-digdayahd-1.dens.tv/h/h226/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h226/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", DW
-https://op-flashcon-digdayahd-1.dens.tv/h/h213/01.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", tv5 monde
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 monde
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h312/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TRT
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h20/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", France 24
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h14/02.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Wion
 https://op-flashcon-digdayahd-1.dens.tv/h/h307/S1/mnf.m3u8
@@ -5256,32 +5266,41 @@ https://
 ################################################################IndihomeTV#############################################################
 
 
-
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CNA
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h29/02.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK w
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CCTV 4
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CGTN doc
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h04/02.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Quran
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Quran TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/02.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Sunnah
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Sunnah TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h38/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Aljazera e
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h43/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Aljazera  a
+https://op-flashcon-digdayahd-1.dens.tv/s/s16/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/s/s16/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", RT
 https://op-flashcon-digdayahd-1.dens.tv/h/h226/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h226/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", DW
-https://op-flashcon-digdayahd-1.dens.tv/h/h213/01.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", tv5 monde
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 monde
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h312/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TRT
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h20/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", France 24
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h14/02.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Wion
 https://op-flashcon-digdayahd-1.dens.tv/h/h307/S1/mnf.m3u8
