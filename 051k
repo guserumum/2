@@ -855,6 +855,9 @@ https://
 <================================================================================================================>
 <================================================================================================================>
 <================================================================================================================>
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url=" " tvg-logo=" ", celestial
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index_video_6_0_20200272.mp4
+
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (nextgenz)
 https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
