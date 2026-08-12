@@ -12413,10 +12413,11 @@ https://
 <================================================================================================================>
 
 
-#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="", nhk premium
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="", NHK Premium
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
 
-#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="", NHK w
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="", NHK World
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
 
 #EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",tv asahi
