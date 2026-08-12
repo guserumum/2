@@ -856,8 +856,8 @@ https://
 <================================================================================================================>
 <================================================================================================================>
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (nextgenz)
-https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (digdayahd)
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV (dens 01)
@@ -870,21 +870,26 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]", Indosiar (nextgenz)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]", INDOSIAR
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 <----------------------------------------------------------------------------------------------------------------------->
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",💛💛💛TV RUMAH💛💛💛
 https://
 
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (nexgentz)
+#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (-)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]", Indosiar
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/indosiar.png" group-title="01. TV Rumah[2026]",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png",03. MNC TV (R+)
@@ -905,11 +910,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true",R+ Live Sports
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="01. TV Rumah[2026]",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
+https://tvratu.my.id/vid/index.mpd?id=204&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (co.id)
