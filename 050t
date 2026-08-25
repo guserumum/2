@@ -856,32 +856,30 @@ https://
 <================================================================================================================>
 <================================================================================================================>
 
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (nextgenz)
-https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
-
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (dens 01)
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV (nextgenz)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://nextgenz.my.id/event/pidio/play.m3u8?id=777&type=hls
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV ONE
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV (dens 01)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png" group-title="01. TV Rumah[2026]",METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png",03. MNC TV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]", Indosiar (nextgenz)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 
@@ -889,28 +887,27 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",💛💛💛TV RUMAH💛💛💛
 https://
 
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (nextgenz)
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="01. TV Rumah[2026]", ANTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
+https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]", Indosiar (nextgenz)
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/205/file/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]",02. Indosiar (dens01)
-http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]",02. Indosiar (dens02)
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/indosiar.png" group-title="01. TV Rumah[2026]",Indosiar (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png",03. MNC TV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png",04.-RCTI (R+)
@@ -926,86 +923,31 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true",R+ Live Sports
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png", SCTV (nexgent)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="01. TV Rumah[2026]",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
+https://tvratu.my.id/vid/index.mpd?id=204&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="01. TV Rumah[2026]",05. SCTV (dens01)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="01. TV Rumah[2026]",05. SCTV (dens02)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (co.id)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (720p) https
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (720p) http
-http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",06.-Trans TV (vid)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV One (nextgenz)
-https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
-
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png",07. TVOne (dens01)
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png",07. TVOne (dens02)
-https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV ONE
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
 
 
 
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="Trans7.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (720p) https
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="Trans7.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (720p) http
-http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="Trans7.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (360p) https
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w378228696_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY1NDEwNTI1NDImd293emF0b2tlbmhhc2g9bVYwUE8taHVCUF9aYzJnUF9vZWZUaWQ2U1R6dGlFNGlpaVJsVW1FYWIzdz0=.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",08. Trans 7 (vid)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",08. Trans 7 (dtk)
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w680234595_b344100_sleng.m3u8
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV (nextgenz)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://nextgenz.my.id/event/pidio/play.m3u8?id=777&type=hls
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",09.=Metro TV (dens01)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",09.=Metro TV (dens02)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="GTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/250px-GTV_%282017%29.svg.png",10.-GTV (R+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1014,19 +956,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",11.a. TVRI  Nasional (240v)
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_250000=10014-mp4a_64000_eng=20003.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",11.a. TVRI  Nasional (360 dens1)
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",11.a. TVRI  Nasional (360 dens2)
-https://op-flashcon-digdayahd-1.dens.tv/h/h17/02.m3u8
 
-
-
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",11.a. TVRI  Nasional (240)
-hhttps://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_250000=10000-mp4a_64000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",11.a. TVRI  Nasional (360)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_500000=10001-mp4a_64000_eng=20003.m3u8
@@ -1034,67 +970,133 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_500000=10001
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",11.a. TVRI  Nasional (720)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8
 
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",11.b. TVRI SPORT
+https://op-flashcon-digdayahd-1.dens.tv/h/h19/02.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",12. MD NET (dens01)
 #EXTVLCOPT:http-referrer=https://visionplus.id
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",12. MD NET (dens02)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/250px-Rajawali_Televisi.svg.png" group-title="01. TV Rumah[2026]",13.-RTV (dens01)
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/250px-Rajawali_Televisi.svg.png" group-title="01. TV Rumah[2026]",13.-RTV (dens02)
-https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png" group-title="01. TV Rumah[2026]",14.-Mentari TV (nextgenz)
-https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png" group-title="01. TV Rumah[2026]",14.-Mentari TV
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/moji.png" group-title="01. TV Rumah[2026]",Moji
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/jtv.png" group-title="01. TV Rumah[2026]",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Jowo
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Berita Satu
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Elshinta
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Magna TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/02.m3u8
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Nusantara TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",BTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Jak TV
+https://op-flashcon-digdayasd-1.dens.tv/h/h209/S1/mnf.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://iili.io/Jbtnh2j.png" group-title="01. TV Rumah[2026]", Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="01. TV Rumah[2026]",29. Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://www.suarasurabaya.net/wp-content/uploads/2023/10/cropped-cropped-LOGO-DEFAULT.jpg" group-title="01. TV Rumah[2026]",Suara Surabaya FM (Video)
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="01. TV Rumah[2026]", TRIBUN NEWS
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
+
+
+#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-logo="https://nabelsakha.com/wp-content/uploads/2023/10/Sindonews.png" group-title="01. TV Rumah[2026]",SindoNews
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTINF:-1 tvg-id="auto.sin.po.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/wZs8Xxf9gMUStqOa3fM3rznnDWM=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/187019218/ProfileBannerSinPoTV-a703fecf7ac03ff6.png" group-title="01. TV Rumah[2026]",SIN PO TV
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
+
+#EXTINF:-1 tvg-id="Moji" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="01. TV Rumah[2026]",MOJI TV (Dens)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1fKaOepEpqR_E-56pimzEjBj8vH0Xfa7MDkIphFS9XIxRLDCPAjPX3q87Foy_jPAmFIEl7cze-LmLPivh8Q8oyvp1Bte2c5hOEwUzvQl9LeYS_i7eW5eUeA2ANJdUx918Obpj4bX38gGy-h3VE6J4RIvPNEfoPl_ua0FnVXeFrsUJu9xw2ujMtX4Hokp/s700/MAXSTREAM.jpeg" group-title="01. TV Rumah[2026]",Maxstream (id)
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0|user-agent=Mozilla/5.0
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0","user-agent":"Mozilla/5.0"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn.siar.us/
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png" group-title="01. TV Rumah[2026]",Nusantara TV (ChannelFeed)
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3BfVm4YvrbD_YHuY-nzijM5nd5PhRJdXPrL_h-kj3uWMQlR1THZMMvDx5zGcvJgRHJMh2AZVIvVKetJzICoFB8tq6Hzd-Rg8OrW5PeaB4IEDfvyeEmDXMRf4DeJDmUGcs94pvVWkWopzqt0zXPSfLJyyXScjfqxGlQ5ug_QArfzkQLnEqbkRGApC89IU/s700/FUN%20PLANET.png" group-title="01. TV Rumah[2026]",Fun Planet (id)
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
+#EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Antara_%28news_agency%29_logo.svg/1280px-Antara_%28news_agency%29_logo.svg.png" group-title="01. TV Rumah[2026]",Antara TV
+https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_1000000=500-3277707030000000.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="BNChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="01. TV Rumah[2026]",BN Channel (ChannelFeed)
+https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="01. TV Rumah[2026]",Indonesiana TV (ChannelFeed)
+https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg" group-title="01. TV Rumah[2026]", BIOSKOP INDONESIA
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="01. TV Rumah[2026]",Garuda TV (ChannelFeed)
+https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0FKjd98/Dunia-Anak.jpg" group-title="01. TV Rumah[2026]", DUNIA ANAK
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264753
-
-#EXTINF:-1 tvg-id="611.astro" group-title="01. TV Rumah[2026]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://load.perfecttv.net/mpd/ceria/manifest.mpd
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
-
-#EXTINF:-1 tvg-id="611.astro" group-title="01. TV Rumah[2026]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://load.perfecttv.net/mpd/ceria/manifest.mpd
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",🤍🤍🤍 Berita 🤍🤍🤍
 https://
@@ -1107,11 +1109,6 @@ https://
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",14. Kompas TV (dens02)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/250px-INews.svg.png",15.-iNews (R+)
@@ -1122,38 +1119,29 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="01. TV Rumah[2026]" tvg-id="IDTV.ind" tvg-name="Berita Satu HD",16. Berita Satu (dens 01)
-https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="01. TV Rumah[2026]" tvg-id="IDTV.ind" tvg-name="Berita Satu HD",16. Berita Satu (dens 02)
-https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://images.indihometv.com/assets/88_SINDONEWSTV_2025_03_17_15_14_55.png",17. Sindonews TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 
 
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://images.indihometv.com/assets/88_SINDONEWSTV_2025_03_17_15_14_55.png",17. Sindonews TV
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="CNNIndonesia.id" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png",18. CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="01. TV Rumah[2026]", 18. CNN Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w82829404_b384000_sleng.m3u8
+
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="CNBCIndonesia.id" tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",19. CNBC Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="01. TV Rumah[2026]", 19. CNBC Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1457300562_b384000_sleng.m3u8
+
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png",20. IDX Channel (V+)
@@ -1169,49 +1157,10 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://iili.io/JbtnQjI.png" group-title="01. TV Rumah[2026]", 22. ElshintaTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/500a192f4d09360.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png",23. Antara
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
-
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV (VD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=1561&type=hls
-
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://thumbor.prod.vidiocdn.com/1z_3ZItS3609Ex_kO9iC_PXyIXw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png", MDTV (VD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=875&type=hls
-
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png", Nusantara TV (VD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=7432&type=hls
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png", JTV (VD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=9713&type=hls
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://thumbor.prod.vidiocdn.com/tImFFkaMktXuC3K0WfZroQ_PDS0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/bfda90.png", JPM TV (VD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=9714&type=hls
-
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png", Kompas TV (VD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=874&type=hls
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Mv1GeF4z7jgfhgmYHc25otrpGK-VOPpAvDln2o8Q0S3dISP945CHltXc&s=10", Berita Satu (VD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=18280&type=hls
-
-#EXTINF:-1 group-title="01. TV Rumah[2026]"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t-MI3xuy_9qoyHhSD2nFxkLnB6xZT_EbfiwQtLKMQrIo2PTrCrfAL53n&s=10", Garuda TV (VD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=18162&type=hls
-
-
-
 
 
 
@@ -1754,6 +1703,113 @@ https://
 <================================================================================================================>
 
 
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CNA
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CCTV 4
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CGTN doc
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Quran TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Sunnah TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Aljazera e
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Aljazera  a
+https://op-flashcon-digdayahd-1.dens.tv/s/s16/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s16/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", RT
+https://op-flashcon-digdayahd-1.dens.tv/h/h226/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h226/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", DW
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 monde
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TRT
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", France 24
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Wion
+https://op-flashcon-digdayahd-1.dens.tv/h/h307/S1/mnf.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Freedom
+https://op-flashcon-digdayahd-1.dens.tv/h/h101/S1/mnf.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", AIM
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/S1/mnf.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", bioskop indonesia
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", france 24
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", france 24
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CN
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", WB
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TVN Movie
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", MD Net
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 Monde
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Arirang
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 34
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Bioskop Indonesia
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ",  JTV
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Moji
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+http://iptvtree.net:8080/F25660/4184162c/298526
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+http://iptvtree.net:8080/F25660/4184162c/298513
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
+http://iptvtree.net:8080/F25660/4184162c/298514 
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
+http://iptvtree.net:8080/F25660/4184162c/298529 
+
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
+http://iptvtree.net:8080/F25660/4184162c/298503
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
+http://iptvtree.net:8080/F25660/4184162c/298506
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
+http://iptvtree.net:8080/F25660/4184162c/298510
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
+http://iptvtree.net:8080/F25660/4184162c/298516
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
+http://iptvtree.net:8080/F25660/4184162c/298535
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
+http://iptvtree.net:8080/F25660/4184162c/298548
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
+http://iptvtree.net:8080/F25660/4184162c/298550 
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 rock e
+http://iptvtree.net:8080/F25660/4184162c/298565
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
+http://iptvtree.net:8080/F25660/4184162c/298581
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="02. TV Parabola[2026]", Celestial Movies
 http://202.169.224.202:8800/udp/239.9.1.23:1234
 
@@ -1841,33 +1897,6 @@ http://202.169.224.202:8800/udp/239.9.1.12:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="02. TV Parabola[2026]", Citra entertainment (udp)
 http://202.169.224.202:8800/udp/239.9.1.27:1234
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
-http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
-http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
-http://iptvtree.net:8080/F25660/4184162c/298514 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
-http://iptvtree.net:8080/F25660/4184162c/298529 
-
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
-http://iptvtree.net:8080/F25660/4184162c/298503
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
-http://iptvtree.net:8080/F25660/4184162c/298506
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
-http://iptvtree.net:8080/F25660/4184162c/298510
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
-http://iptvtree.net:8080/F25660/4184162c/298516
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
-http://iptvtree.net:8080/F25660/4184162c/298535
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
-http://iptvtree.net:8080/F25660/4184162c/298548
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
-http://iptvtree.net:8080/F25660/4184162c/298550 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 re
-http://iptvtree.net:8080/F25660/4184162c/298565
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
-http://iptvtree.net:8080/F25660/4184162c/298581
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myca.png",38. My Cinema Asia HD (d index)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -5311,6 +5340,113 @@ https://
 ################################################################IndihomeTV#############################################################
 
 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CNA
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CCTV 4
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CGTN doc
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Quran TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Sunnah TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Aljazera e
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Aljazera  a
+https://op-flashcon-digdayahd-1.dens.tv/s/s16/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s16/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", RT
+https://op-flashcon-digdayahd-1.dens.tv/h/h226/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h226/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", DW
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 monde
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TRT
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", France 24
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Wion
+https://op-flashcon-digdayahd-1.dens.tv/h/h307/S1/mnf.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Freedom
+https://op-flashcon-digdayahd-1.dens.tv/h/h101/S1/mnf.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", AIM
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/S1/mnf.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", bioskop indonesia
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", france 24
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", france 24
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CN
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", WB
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TVN Movie
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", MD Net
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 Monde
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Arirang
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 34
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Bioskop Indonesia
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ",  JTV
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Moji
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+http://iptvtree.net:8080/F25660/4184162c/298526
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+http://iptvtree.net:8080/F25660/4184162c/298513
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
+http://iptvtree.net:8080/F25660/4184162c/298514 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
+http://iptvtree.net:8080/F25660/4184162c/298529 
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
+http://iptvtree.net:8080/F25660/4184162c/298503
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
+http://iptvtree.net:8080/F25660/4184162c/298506
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
+http://iptvtree.net:8080/F25660/4184162c/298510
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
+http://iptvtree.net:8080/F25660/4184162c/298516
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
+http://iptvtree.net:8080/F25660/4184162c/298535
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
+http://iptvtree.net:8080/F25660/4184162c/298548
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
+http://iptvtree.net:8080/F25660/4184162c/298550 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 rock e
+http://iptvtree.net:8080/F25660/4184162c/298565
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
+http://iptvtree.net:8080/F25660/4184162c/298581
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="03. TV Kabel[2026]", Celestial Movies
 http://202.169.224.202:8800/udp/239.9.1.23:1234
 
@@ -5471,6 +5607,16 @@ https://xemzi.short.gy/1000001
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 2
 https://xemzi.short.gy/1000002
 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+http://185.102.171.218/BBCEarth/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo=" ",film_plus
 http://185.98.211.8:81/film_plus/index.m3u8?token=test
@@ -5548,37 +5694,7 @@ http://202.169.224.202:8800/udp/239.9.1.15:1234
 http://202.169.224.202:8800/udp/239.9.1.12:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="03. TV Kabel[2026]", Citra entertainment (udp)
 http://202.169.224.202:8800/udp/239.9.1.27:1234
-
-
-
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
-http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
-http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
-http://iptvtree.net:8080/F25660/4184162c/298514 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
-http://iptvtree.net:8080/F25660/4184162c/298529 
-
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
-http://iptvtree.net:8080/F25660/4184162c/298503
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 06 spotv2
-http://iptvtree.net:8080/F25660/4184162c/298506
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 10 cgtn
-http://iptvtree.net:8080/F25660/4184162c/298510
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 16 ch drama
-http://iptvtree.net:8080/F25660/4184162c/298516
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 35 hgtv
-http://iptvtree.net:8080/F25660/4184162c/298535
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 48 sportstart2
-http://iptvtree.net:8080/F25660/4184162c/298548
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 50 moji
-http://iptvtree.net:8080/F25660/4184162c/298550 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 65 re
-http://iptvtree.net:8080/F25660/4184162c/298565
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
-http://iptvtree.net:8080/F25660/4184162c/298581
-
+          
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1025wXB/CNetwork.jpg" group-title="03. TV Kabel[2026]", CARTOON NETWORK
@@ -12313,7 +12429,6 @@ http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfN
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="05. TV Mandarin 90[2026]",CCTV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -12371,6 +12486,78 @@ https://
 <================================================================================================================>
 <================================================================================================================>
 <================================================================================================================>
+
+
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="", NHK Premium
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
+
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="", NHK World
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
+
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",tv asahi
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",tv tokyo
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",fuji tv
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",nhk g
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",ntv
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",n24
+https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",tbs
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="",nhk world
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/9fa6ed96d14643b974161813fcecb801cae7f22afcd40cb156763780c6446a35/v4.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="tvosaka" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaccQOMkTprsTW9-IiHGPNvJog9crWIpCL3qwm7b0lKg&s=10", TV Osaka 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+
+
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORLD JAPAN
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="GTNTyphome.jp" tvg-logo="https://i.imgur.com/sDQJv3P.png" group-title="06. TV Japan[2026]",Gaki no Tsukai Typhome (Eng Sub)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="06. TV Japan[2026]",NHK G
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="06. TV Japan[2026]",NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="JOBHDTV.jp" tvg-logo="https://i.imgur.com/rUmrruq.png" group-title="06. TV Japan[2026]",TV Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="06. TV Japan[2026]",ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="https://i.imgur.com/WMNg5De.png" group-title="06. TV Japan[2026]",Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://i.imgur.com/RfrkGrd.png" group-title="06. TV Japan[2026]",MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://i.imgur.com/ONbuWvo.png" group-title="06. TV Japan[2026]",YTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="06. TV Japan[2026]",Sun TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
+
+
+
+
 
 #EXTINF:-1 group-title="06. TV Japan[2026]" ch-number="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SPACE_SHOWER_TV.jpg/500px-SPACE_SHOWER_TV.jpg",space shower l
 http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
@@ -12679,6 +12866,9 @@ http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_68.png",Nittele Plus
 http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="jp97" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png",Pigoo NSFW
+http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="06. TV Japan[2026]" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_95.png",Shogi Channel
 http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
@@ -12927,7 +13117,11 @@ https://live.livingjtv.live/jp94/playlist.m3u8?token=M7VMdfn2WH
 https://live.livingjtv.live/jp95/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="06. TV Japan[2026]" ch-number="68" tvg-logo=" ", test 96 tbs
 https://live.livingjtv.live/jp96/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 group-title="06. TV Japan[2026]" ch-number="68" tvg-logo=" ", test 97 pigoo
+https://live.livingjtv.live/jp97/playlist.m3u8?token=M7VMdfn2WH
 
+#EXTINF:-1 group-title="06. TV Japan[2026]" ch-number="68" tvg-logo=" ", akariko.netgenx.site pigoo_nsfw
+http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="06. TV Japan[2026]" ch-number="68" tvg-logo=" ", akariko.netgenx.site v paradise_nsfw
 http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
@@ -17021,6 +17215,10 @@ Https://www.googleapis.com/drive/v3/files/1Z2ph8zHJUvFTtXotSHi_WdKKo3XudN4l?alt=
 <=============================================================================================================================>
 <=============================================================================================================================>
 
+<=============================================================================================================================>
+<=============================================================================================================================>
+<=============================================================================================================================>
+
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="401" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
@@ -17090,6 +17288,12 @@ https://xemzi.short.gy/1000001
 
 #EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 2
 https://xemzi.short.gy/1000002
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
+http://185.102.171.218/BBCEarth/index.m3u8
 
 # =====================================================> Trial indihometv ===========================================>
 
@@ -17377,6 +17581,7 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-32777070300
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="auto.z.bioskop" group-title="09. TV Indihome[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",Z Bioskop
 https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
+<=============================================================================================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
@@ -20228,6 +20433,64 @@ Https://www.googleapis.com/drive/v3/files/1gx4668skQSSoItc4mrZlNDsKi_4cwx3I?alt=
 Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
 #EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Jurassic Park 3 (2001)
 Https://www.googleapis.com/drive/v3/files/1xbNn0iVEZqybsSqi2Ayoy2UTh9u--SHD?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",zj4 Jurassic World (2015) Dubbing Indonesia.mp4
+Https://www.googleapis.com/drive/v3/files/1K0O16PGB-ajAEsBREVqV1PkO_WoJMd6c?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",zj5 Jurassic World Dominion (2022) 1080p.mp4
+Https://www.googleapis.com/drive/v3/files/1rzAdperwBbfJ7NmEY9eLcJicpj1FAELz?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Lk21 Nonton Jurassic World- Rebirth (2025) Sub Indo - Streaming dan Download Film Full Movie HD.mp4
+Https://www.googleapis.com/drive/v3/files/1kZdjH6rm1J51A3CbpqNwFZ6Uxgfl43fw?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Lk21 Nonton Jurassic City (2015) Sub Indo - Streaming dan Download Film Full Movie HD.mp4
+Https://www.googleapis.com/drive/v3/files/1LcA8wdF5ZKzd1nUGsJui5YnnOIR7kmJv?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Lk21 Nonton Jurassic Hunt (2021) Sub Indo - Streaming dan Download Film Full Movie HD.mp4
+Https://www.googleapis.com/drive/v3/files/1Z_LvhjGCvsbcCFDsApymWuXUy5fl4k-a?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Lk21 Nonton Jurassic Island (2022) Sub Indo - Streaming dan Download Film Full Movie HD.mp4
+Https://www.googleapis.com/drive/v3/files/1FzLwCeyCPw8FMYB7vriPngfOOyWNELe-?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Lk21 Nonton Jurassic Triangle (2024) Sub Indo - Streaming dan Download Film Full Movie HD.mp4
+Https://www.googleapis.com/drive/v3/files/1qrVWm4gduP9O332SU44XqMuqYi8YkrCr?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Lk21 Nonton Jurassic World- Fallen Kingdom (2018) Sub Indo - Streaming dan Download Film Full Movie HD.mp4
+Https://www.googleapis.com/drive/v3/files/1u3BmYvK9EHSPB9TWKYlt6RppyZL6TgX7?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Lk21 Nonton Return to the Jurassic (2025) Sub Indo - Streaming dan Download Film Full Movie HD.mp4
+Https://www.googleapis.com/drive/v3/files/1vs4xHLM3tJhrn0R4j_nAlfJCd_4APlFr?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Lk21 Nonton The Jurassic Games- Extinction (2025) Sub Indo - Streaming dan Download Film Full Movie HD.mp4
+Https://www.googleapis.com/drive/v3/files/1V9xuEPWpQax9r8clTZ6zFDZau6QQ8wXf?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Looney Tunes- Rabbits Run (2015) Dubbing Indonesia.mp4
+Https://www.googleapis.com/drive/v3/files/1xAKAQYD5e61I9LevPt6bOG-8LDgTSWlP?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Space Jam (1996) Dubbing Indonesia.mp4
+Https://www.googleapis.com/drive/v3/files/1jqOKKQP6AmdU6_Jx3PWlwF6BYWkZh2Ux?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",Space Jam A New Legacy (2021) Dubbing indonesia.mp4
+Https://www.googleapis.com/drive/v3/files/1Lu5fmCJ_XWsvjBvb83VjZN0bvSNPC6FS?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",King Tweety (2022) Dubbing Indonesia.mp4
+Https://www.googleapis.com/drive/v3/files/1eWX2AAJYo7bYYU-qmcd_K6ws_5IHX68K?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="23.00-00.30 - Cinema Pilihan",
+Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
 
 
 <=============================================================================================================================>
