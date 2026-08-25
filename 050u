@@ -1749,12 +1749,46 @@ https://
 <================================================================================================================>
 
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CNA
+
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TVN Movie
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+http://iptvtree.net:8080/F25660/4184162c/298526
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+http://iptvtree.net:8080/F25660/4184162c/298513
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
+http://iptvtree.net:8080/F25660/4184162c/298514 
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
+http://iptvtree.net:8080/F25660/4184162c/298529 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=  :
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="02. TV Parabola[2026]",011-meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/LIjBhc9.png" group-title="02. TV Parabola[2026]",012-meWATCH LIVE 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNA" group-title="02. TV Parabola[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",15-CNA (Channel News Asia) 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png", CNA
 https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h29/02.m3u8
+
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN Doc (en)
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN (en)
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+
+
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
 https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CCTV 4
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
@@ -1798,16 +1832,14 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", france 24
 http://202.150.161.212:5000/live/channel21/playlist.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
-http://202.150.161.212:5000/live/channel22/playlist.m3u8
+
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", france 24
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CN
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", WB
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TVN Movie
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", MD Net
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 Monde
@@ -1822,14 +1854,8 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Moji
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
-http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
-http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
-http://iptvtree.net:8080/F25660/4184162c/298514 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
-http://iptvtree.net:8080/F25660/4184162c/298529 
+
+
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
 http://iptvtree.net:8080/F25660/4184162c/298503
@@ -5386,12 +5412,45 @@ https://
 ################################################################IndihomeTV#############################################################
 
 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CNA
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TVN Movie
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+http://iptvtree.net:8080/F25660/4184162c/298526
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+http://iptvtree.net:8080/F25660/4184162c/298513
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
+http://iptvtree.net:8080/F25660/4184162c/298514 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
+http://iptvtree.net:8080/F25660/4184162c/298529 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=  :
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="03. TV Kabel[2026]",011-meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/LIjBhc9.png" group-title="03. TV Kabel[2026]",012-meWATCH LIVE 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNA" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",15-CNA (Channel News Asia) 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png", CNA
 https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h29/02.m3u8
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN Doc (en)
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN (en)
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+
+
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
 https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CCTV 4
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
@@ -5435,16 +5494,14 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", france 24
 http://202.150.161.212:5000/live/channel21/playlist.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
-http://202.150.161.212:5000/live/channel22/playlist.m3u8
+
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", france 24
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CN
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", WB
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TVN Movie
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", MD Net
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TV 5 Monde
@@ -5459,14 +5516,8 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Moji
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
-http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
-http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
-http://iptvtree.net:8080/F25660/4184162c/298514 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
-http://iptvtree.net:8080/F25660/4184162c/298529 
+
+
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 03 afn
 http://iptvtree.net:8080/F25660/4184162c/298503
