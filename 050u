@@ -1774,8 +1774,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #EXTINF:-1 tvg-id="CNA" group-title="02. TV Parabola[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",15-CNA (Channel News Asia) 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png", CNA
-https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN Doc (en)
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
@@ -1785,10 +1783,20 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
-https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/9fa6ed96d14643b974161813fcecb801cae7f22afcd40cb156763780c6446a35/v4.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORLD JAPAN
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="",nhk g
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="02. TV Parabola[2026]",NHK G
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="02. TV Parabola[2026]",NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+
+
+
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CCTV 4
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
@@ -5412,6 +5420,7 @@ https://
 ################################################################IndihomeTV#############################################################
 
 
+
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TVN Movie
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
@@ -5436,8 +5445,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #EXTINF:-1 tvg-id="CNA" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",15-CNA (Channel News Asia) 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png", CNA
-https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN Doc (en)
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
@@ -5447,10 +5454,20 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
-https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h23/02.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/9fa6ed96d14643b974161813fcecb801cae7f22afcd40cb156763780c6446a35/v4.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORLD JAPAN
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="",nhk g
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="03. TV Kabel[2026]",NHK G
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="03. TV Kabel[2026]",NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+
+
+
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", CCTV 4
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
@@ -5537,8 +5554,6 @@ http://iptvtree.net:8080/F25660/4184162c/298550
 http://iptvtree.net:8080/F25660/4184162c/298565
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
 http://iptvtree.net:8080/F25660/4184162c/298581
-
-
 
 
 
