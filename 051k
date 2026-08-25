@@ -875,12 +875,21 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]",Indosiar (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="01. TV Rumah[2026]",Indosiar (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
 
 <----------------------------------------------------------------------------------------------------------------------->
@@ -904,6 +913,14 @@ https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="01. TV Rumah[2026]",Indosiar (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png",03. MNC TV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -916,18 +933,37 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1008
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true",R+ Live Sports
-https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="01. TV Rumah[2026]",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=sctv
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="01. TV Rumah[2026]",SCTV (DASH/MPD)
+https://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="01. TV Rumah[2026]",SCTV (DASH/MPD)
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="01. TV Rumah[2026]" ,SCTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
+
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (co.id)
@@ -1108,6 +1144,14 @@ https://
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",14. Kompas TV (dens01)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://object-streamo.emonaja.com/img/kompastv.png" group-title="01. TV Rumah[2026]",Kompas TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"}
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 
 
