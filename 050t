@@ -1034,11 +1034,16 @@ https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlis
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Jowo
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/S2/mnf.m3u8
+
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Berita Satu
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Elshinta
 https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S2/mnf.m3u8
+
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Magna TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
@@ -1050,9 +1055,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/02.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",BTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",Jak TV
 https://op-flashcon-digdayasd-1.dens.tv/h/h209/S1/mnf.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h209/S2/mnf.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://iili.io/Jbtnh2j.png" group-title="01. TV Rumah[2026]", Bandung TV
