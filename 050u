@@ -1796,7 +1796,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2026]",Cinemax
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" ch-number="33" tvg-logo="https://static.mncnow.id/images/channel/d5966d04/9914_r32.jpg",Hits Movies
+#EXTINF:-1 group-title="02. TV Parabola[2026]" ch-number="33" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b9/Hits_Movies_Logo_2018.png",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
 
@@ -1811,17 +1811,19 @@ http://iptvtree.net:8080/F25660/4184162c/298565
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://images.indihometv.com/assets/88_ZEEBIOSKOP_2025_03_17_15_04_16.png",Zee Bioskop (ih)
 https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Bioskop Indonesia
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a7/Bioskop_Indonesia_TV.png/120px-Bioskop_Indonesia_TV.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20210920034610", Bioskop Indonesia
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 01" ,ETV BIOSKOP 01
 http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 02" ,ETV BIOSKOP 02
 http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
-http://iptvtree.net:8080/F25660/4184162c/298514 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
-http://iptvtree.net:8080/F25660/4184162c/298529 
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name=" ETV BIOSKOP 03" ,ETV BIOSKOP 03
+http://iptvtree.net:8080/F25660/4184162c/298514
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04
+http://iptvtree.net:8080/F25660/4184162c/298529
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
@@ -1837,20 +1839,20 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN Doc (en)
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled", CGTN Doc (en)
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN (en)
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail", CGTN (en)
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/9fa6ed96d14643b974161813fcecb801cae7f22afcd40cb156763780c6446a35/v4.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHK_WORLD_PREMIUM_logo.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled", nhk premium
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="",nhk g
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/960px-NHK_General_TV_logo.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",nhk g
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="02. TV Parabola[2026]",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
@@ -5484,16 +5486,80 @@ https://
 
 
 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", TVN Movie
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN Movie
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 26 etv1
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
+https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="03. TV Kabel[2026]",HBO HD
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="603" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="604" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="605" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="03. TV Kabel[2026]",Cinemax
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" ch-number="33" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b9/Hits_Movies_Logo_2018.png",Hits Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" ch-number="55" tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" ch-number="54" tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://iptvtree.net:8080/F25660/4184162c/298565
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://images.indihometv.com/assets/88_ZEEBIOSKOP_2025_03_17_15_04_16.png",Zee Bioskop (ih)
+https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a7/Bioskop_Indonesia_TV.png/120px-Bioskop_Indonesia_TV.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20210920034610", Bioskop Indonesia
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 01" ,ETV BIOSKOP 01
 http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 13 etv2
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 02" ,ETV BIOSKOP 02
 http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 14 etv3
-http://iptvtree.net:8080/F25660/4184162c/298514 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 29 etv4
-http://iptvtree.net:8080/F25660/4184162c/298529 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name=" ETV BIOSKOP 03" ,ETV BIOSKOP 03
+http://iptvtree.net:8080/F25660/4184162c/298514
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04
+http://iptvtree.net:8080/F25660/4184162c/298529
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
@@ -5509,20 +5575,20 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN Doc (en)
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled", CGTN Doc (en)
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="", CGTN (en)
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail", CGTN (en)
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", NHK World
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/9fa6ed96d14643b974161813fcecb801cae7f22afcd40cb156763780c6446a35/v4.m3u8
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", nhk premium
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHK_WORLD_PREMIUM_logo.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled", nhk premium
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="",nhk g
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/960px-NHK_General_TV_logo.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",nhk g
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="03. TV Kabel[2026]",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
@@ -5617,6 +5683,7 @@ http://iptvtree.net:8080/F25660/4184162c/298550
 http://iptvtree.net:8080/F25660/4184162c/298565
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", 81 v
 http://iptvtree.net:8080/F25660/4184162c/298581
+
 
 
 
