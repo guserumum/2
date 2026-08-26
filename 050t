@@ -1814,41 +1814,16 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a7/Bioskop_Indonesia_TV.png/120px-Bioskop_Indonesia_TV.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20210920034610", Bioskop Indonesia
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" tvg-name="ETV BIOSKOP 01" ,ETV BIOSKOP 01a
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" tvg-name="ETV BIOSKOP 01" ,ETV BIOSKOP 01
 http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" tvg-name="ETV BIOSKOP 02" ,ETV BIOSKOP 02a
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" tvg-name="ETV BIOSKOP 02" ,ETV BIOSKOP 02
 http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" tvg-name=" ETV BIOSKOP 03" ,ETV BIOSKOP 03a
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" tvg-name=" ETV BIOSKOP 03" ,ETV BIOSKOP 03
 http://iptvtree.net:8080/F25660/4184162c/298514
-#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04a
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04
 http://iptvtree.net:8080/F25660/4184162c/298529
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 1b
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 2b
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 3b
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 4b
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="02. TV Parabola[2026]", ETV BIOSKOP 1c
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="02. TV Parabola[2026]", ETV BIOSKOP 2c
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="02. TV Parabola[2026]", ETV BIOSKOP 3c
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="02. TV Parabola[2026]", ETV BIOSKOP 4c
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
-
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="02. TV Parabola[2026]", ETV BIOSKOP 5
-https://mantul.biz.id:443/inetwork/gayanet12/27431.ts
-https://mantul.biz.id:443/ekos/748382/27431.ts
-https://mantul.biz.id:443/aruba/aruba/27431.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5576,15 +5551,14 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a7/Bioskop_Indonesia_TV.png/120px-Bioskop_Indonesia_TV.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20210920034610", Bioskop Indonesia
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 01" ,ETV BIOSKOP 01
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" tvg-name="ETV BIOSKOP 01" ,ETV BIOSKOP 01
 http://iptvtree.net:8080/F25660/4184162c/298526
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 02" ,ETV BIOSKOP 02
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" tvg-name="ETV BIOSKOP 02" ,ETV BIOSKOP 02
 http://iptvtree.net:8080/F25660/4184162c/298513
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name=" ETV BIOSKOP 03" ,ETV BIOSKOP 03
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" tvg-name=" ETV BIOSKOP 03" ,ETV BIOSKOP 03
 http://iptvtree.net:8080/F25660/4184162c/298514
-#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.imgur.com/mlb9Xgr.png" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04
 http://iptvtree.net:8080/F25660/4184162c/298529
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
