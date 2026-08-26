@@ -1823,13 +1823,13 @@ http://iptvtree.net:8080/F25660/4184162c/298514
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" tvg-name="ETV BIOSKOP 04" , ETV BIOSKOP 04a
 http://iptvtree.net:8080/F25660/4184162c/298529
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 1b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 1b
 https://WahyuIPTV.short.gy/ETVBioskop1.ts
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 2b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 2b
 https://WahyuIPTV.short.gy/ETVBioskop2.ts
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 3b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 3b
 https://WahyuIPTV.short.gy/ETVBioskop3.ts
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 4b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/Etv%20Bioskop.jpeg" group-title="02. TV Parabola[2026]",ETV BIOSKOP 4b
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
 
