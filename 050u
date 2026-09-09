@@ -9999,7 +9999,7 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="05. TV Mandarin 90[2026]",040. tVnMovie
-https://wahyu1ptv.pages.dev/tVnMovie-HD.m3u8
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 
 #EXTINF:-1 group-title="05. TV Mandarin 90[2026]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
