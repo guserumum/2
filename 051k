@@ -884,7 +884,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
 #EXTINF:-1 tvg-id="Metro TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png" group-title="01. TV Rumah[2026]",METRO TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-
+#EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png",03. MNC TV 
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/22.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png",03. MNC TV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -924,6 +925,10 @@ https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="01. TV Rumah[2026]", ANTV
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/01.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]",Indosiar
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11.m3u8
+
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/indosiar.png" group-title="01. TV Rumah[2026]",Indosiar (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -993,7 +998,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/34.m3u8
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (co.id)
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w2146129999_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTIxMTQ2MjI2ODYmd293emF0b2tlbmhhc2g9ejd6TjI0TDc4ZElwN2xLYnJOS0ltX3Rya1ZRTVFUejRQbnhSUTljQTBBMD0=.m3u8
 
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV Rumah[2026]" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TV ONE
@@ -1007,7 +1012,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/33.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="Trans7.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans7 (360p) https
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w378228696_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY1NDEwNTI1NDImd293emF0b2tlbmhhc2g9bVYwUE8taHVCUF9aYzJnUF9vZWZUaWQ2U1R6dGlFNGlpaVJsVW1FYWIzdz0=.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w58168577_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTIxMTQ2OTY2MDImd293emF0b2tlbmhhc2g9LUxKTUFKS2hxb3A3NEstbU5hcWNGS3VmQ1ZyZDNBZGhzeDQzNnNNelptaz0=.m3u8
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", Metro TV
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/21.m3u8
