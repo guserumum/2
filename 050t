@@ -765,6 +765,9 @@ https://
 https://
 #EXTINF:-1 tvg-logo="" group-title="🟩🟩🟩PRODUK UTAMA🟩🟩🟩 ===>", 10. TV Transvision[2026]
 https://
+#EXTINF:-1 tvg-logo="" group-title="🟩🟩🟩PRODUK UTAMA🟩🟩🟩 ===>", 11. TV Astro[2026]
+https://
+
 
 #EXTINF:-1 tvg-logo="" group-title="🟩🟩🟩PRODUK UTAMA🟩🟩🟩 ===>",🤍🤍🤍02. TV 90an🤍🤍🤍
 https://
@@ -841,6 +844,8 @@ https://
 #EXTINF:-1 tvg-logo="" group-title="💚💚💚01. ZAL TV💚💚💚", 09. TV Indihome[2026]
 https://
 #EXTINF:-1 tvg-logo="" group-title="💚💚💚01. ZAL TV💚💚💚", 10. TV Transvision[2026]
+https://
+#EXTINF:-1 tvg-logo="" group-title="💚💚💚01. ZAL TV💚💚💚", 11. TV Astro[2026]
 https://
 
 <================================================================================================================>
@@ -1807,7 +1812,7 @@ https://
 
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN Movie
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN
 http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -1853,7 +1858,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2026]",Cinemax
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" ch-number="33" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b9/Hits_Movies_Logo_2018.png",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -2062,21 +2067,21 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="02. TV Parabola[2026]", Celestial Movies
-http://202.169.224.202:8800/udp/239.9.1.23:1234
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.169.224.202:8800/udp/239.9.1.23:1234
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png" group-title="02. TV Parabola[2026]",V+ CelestialMovies
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
@@ -2106,14 +2111,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" ch-number="4" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1",TVN Movies (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="02. TV Parabola[2026]",TVN Movies HD
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="02. TV Parabola[2026]",040. tVn Movie
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="02. TV Parabola[2026]",TVN
 http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -2209,7 +2214,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2026]",Cinemax
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="02. TV Parabola[2026]",HBO2
 http://31.43.191.125:8080/restream/restream/34571
@@ -2218,7 +2223,7 @@ http://31.43.191.125:8080/restream/restream/34571
 http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2026]",cinemax2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo=" ",film_plus
 http://185.98.211.8:81/film_plus/index.m3u8?token=test
@@ -2510,7 +2515,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax (id)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="hboasia.sg" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg",HBO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2553,11 +2558,11 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",CINEMAX 
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="02. TV Parabola[2026]",027. Cinemax
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="02. TV Parabola[2026]",HBO2
 http://31.43.191.125:8080/restream/restream/34571
@@ -5605,7 +5610,7 @@ https://
 
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN Movie
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN
 http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -5651,7 +5656,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="03. TV Kabel[2026]",Cinemax
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" ch-number="33" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b9/Hits_Movies_Logo_2018.png",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -5859,21 +5864,21 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="03. TV Kabel[2026]", Celestial Movies
-http://202.169.224.202:8800/udp/239.9.1.23:1234
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.169.224.202:8800/udp/239.9.1.23:1234
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png" group-title="03. TV Kabel[2026]",V+ CelestialMovies
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
@@ -5900,14 +5905,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" ch-number="4" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1",TVN Movies (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="03. TV Kabel[2026]",TVN Movies HD
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="03. TV Kabel[2026]",040. tVn Movie
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="03. TV Kabel[2026]",TVN
@@ -6003,7 +6008,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="03. TV Kabel[2026]",Cinemax
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="03. TV Kabel[2026]",HBO2
 http://31.43.191.125:8080/restream/restream/34571
@@ -6012,7 +6017,7 @@ http://31.43.191.125:8080/restream/restream/34571
 http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="03. TV Kabel[2026]",cinemax2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 1
@@ -6064,7 +6069,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
@@ -7457,7 +7462,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
  
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://static.mncnow.id/images/channel/0fa59d74/297d_r32.jpg",142 TVN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.150.161.212:5000/live/channel30/playlist.m3u8 
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43 
  
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://static.mncnow.id/images/channel/0fa59d74/297d_r32.jpg",143 RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -10078,21 +10083,21 @@ https://
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="05. TV Mandarin 90[2026]", Celestial Movies
-http://202.169.224.202:8800/udp/239.9.1.23:1234
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 group-title="05. TV Mandarin 90[2026]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.169.224.202:8800/udp/239.9.1.23:1234
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="05. TV Mandarin 90[2026]" ch-number="34" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png" group-title="05. TV Mandarin 90[2026]",V+ CelestialMovies
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
@@ -10119,14 +10124,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 
 #EXTINF:-1 group-title="05. TV Mandarin 90[2026]" ch-number="4" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1",TVN Movies (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="05. TV Mandarin 90[2026]",TVN Movies HD
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="05. TV Mandarin 90[2026]",040. tVn Movie
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="05. TV Mandarin 90[2026]",TVN
 http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -10222,7 +10227,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="05. TV Mandarin 90[2026]",Cinemax
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="05. TV Mandarin 90[2026]",HBO2
 http://31.43.191.125:8080/restream/restream/34571
@@ -10231,7 +10236,7 @@ http://31.43.191.125:8080/restream/restream/34571
 http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="05. TV Mandarin 90[2026]",cinemax2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="05. TV Mandarin 90[2026]" tvg-logo=" ",film_plus
 http://185.98.211.8:81/film_plus/index.m3u8?token=test
@@ -18163,13 +18168,13 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #EXTINF:-1 tvg-id="405" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #EXTINF:-1 tvg-id="405" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (Alt 2)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
@@ -18180,7 +18185,7 @@ http://31.43.191.125:8080/restream/restream/34571
 http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="09. TV Indihome[2026]",cinemax2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 group-title="09. TV Indihome[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 1
@@ -18253,7 +18258,7 @@ https://cdnbal1.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/CGTN_DOCUMENTARY-avc1_2
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="auto.cinemax" group-title="09. TV Indihome[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",Cinemax
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -18583,7 +18588,7 @@ http://202.150.161.212:5000/live/channel28/playlist.m3u8
 #EXTINF:-1 group-title="10. TV Transvision[2026]" tvg-logo="", 29 wb
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
 #EXTINF:-1 group-title="10. TV Transvision[2026]" tvg-logo="", 30 tvn m
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="10. TV Transvision[2026]" tvg-logo="", 31 md
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 #EXTINF:-1 group-title="10. TV Transvision[2026]" tvg-logo="", 32 tv5m
@@ -20930,8 +20935,417 @@ http://202.150.161.212:5000/live/channel1201/playlist.m3u8
 
 
 
+<=============================================================================================================================>
+<=============================================================================================================================>
+<=============================================================================================================================>
+<==========================================11. TV Astro[2026]===========================================================>
+<=============================================================================================================================>
+<=============================================================================================================================>
+<=============================================================================================================================>
 
 
+
+#EXTINF:-1 group-title="11. TV Astro[2026]",00
+http://tv.cloudcdn.me/live.ts?channelId=93700&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",01
+http://tv.cloudcdn.me/live.ts?channelId=93701&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",02
+http://tv.cloudcdn.me/live.ts?channelId=93702&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",03
+http://tv.cloudcdn.me/live.ts?channelId=93703&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",04
+http://tv.cloudcdn.me/live.ts?channelId=93704&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",05
+http://tv.cloudcdn.me/live.ts?channelId=93705&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",06
+http://tv.cloudcdn.me/live.ts?channelId=93706&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",07
+http://tv.cloudcdn.me/live.ts?channelId=93707&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",08
+http://tv.cloudcdn.me/live.ts?channelId=93708&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",09
+http://tv.cloudcdn.me/live.ts?channelId=93709&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",10
+http://tv.cloudcdn.me/live.ts?channelId=93710&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",11
+http://tv.cloudcdn.me/live.ts?channelId=93711&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",12
+http://tv.cloudcdn.me/live.ts?channelId=93712&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",13
+http://tv.cloudcdn.me/live.ts?channelId=93713&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",14
+http://tv.cloudcdn.me/live.ts?channelId=93714&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",15
+http://tv.cloudcdn.me/live.ts?channelId=93715&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",16
+http://tv.cloudcdn.me/live.ts?channelId=93716&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",17
+http://tv.cloudcdn.me/live.ts?channelId=93717&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",18
+http://tv.cloudcdn.me/live.ts?channelId=93718&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",19
+http://tv.cloudcdn.me/live.ts?channelId=93719&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",20
+http://tv.cloudcdn.me/live.ts?channelId=93720&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",21
+http://tv.cloudcdn.me/live.ts?channelId=93721&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",22
+http://tv.cloudcdn.me/live.ts?channelId=93722&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",23
+http://tv.cloudcdn.me/live.ts?channelId=93723&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",24
+http://tv.cloudcdn.me/live.ts?channelId=93724&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",25
+http://tv.cloudcdn.me/live.ts?channelId=93725&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",26
+http://tv.cloudcdn.me/live.ts?channelId=93726&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",27
+http://tv.cloudcdn.me/live.ts?channelId=93727&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",28
+http://tv.cloudcdn.me/live.ts?channelId=93728&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",29 astro arena
+http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",30 astro arena
+http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",31
+http://tv.cloudcdn.me/live.ts?channelId=93731&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",32 astro awani
+http://tv.cloudcdn.me/live.ts?channelId=93732&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",33
+http://tv.cloudcdn.me/live.ts?channelId=93733&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",34 astro prima
+http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",35 astro oasis
+http://tv.cloudcdn.me/live.ts?channelId=93735&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",36
+http://tv.cloudcdn.me/live.ts?channelId=93736&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",37
+http://tv.cloudcdn.me/live.ts?channelId=93737&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",38
+http://tv.cloudcdn.me/live.ts?channelId=93738&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",39
+http://tv.cloudcdn.me/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",40 astro prime league
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",41 astro grandstan
+http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",42 astro football
+http://tv.cloudcdn.me/live.ts?channelId=93742&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",43
+http://tv.cloudcdn.me/live.ts?channelId=93743&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",44 hbo signature
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",45
+http://tv.cloudcdn.me/live.ts?channelId=93745&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",46 axn
+http://tv.cloudcdn.me/live.ts?channelId=93746&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",47 bbc earth
+http://tv.cloudcdn.me/live.ts?channelId=93747&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",48 bein 1
+http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",49
+http://tv.cloudcdn.me/live.ts?channelId=93749&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",50
+http://tv.cloudcdn.me/live.ts?channelId=93750&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",51 color
+http://tv.cloudcdn.me/live.ts?channelId=93751&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",52 animax
+http://tv.cloudcdn.me/live.ts?channelId=93752&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",53 sony max
+http://tv.cloudcdn.me/live.ts?channelId=93753&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",54 celestial
+http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",55 tamil
+http://tv.cloudcdn.me/live.ts?channelId=93755&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",56 cinemax
+http://tv.cloudcdn.me/live.ts?channelId=93756&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",57
+http://tv.cloudcdn.me/live.ts?channelId=93757&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",58
+http://tv.cloudcdn.me/live.ts?channelId=93758&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",59
+http://tv.cloudcdn.me/live.ts?channelId=93759&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",60 hbomax
+http://tv.cloudcdn.me/live.ts?channelId=93760&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",61
+http://tv.cloudcdn.me/live.ts?channelId=93761&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",62 astro ceria
+http://tv.cloudcdn.me/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",63
+http://tv.cloudcdn.me/live.ts?channelId=93763&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",64
+http://tv.cloudcdn.me/live.ts?channelId=93764&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",65 nick
+http://tv.cloudcdn.me/live.ts?channelId=93765&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",66 hgtv
+http://tv.cloudcdn.me/live.ts?channelId=93766&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",67 hits
+http://tv.cloudcdn.me/live.ts?channelId=93767&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",68 nraah
+http://tv.cloudcdn.me/live.ts?channelId=93768&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",69 home
+http://tv.cloudcdn.me/live.ts?channelId=93769&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",70 nick jr
+http://tv.cloudcdn.me/live.ts?channelId=93770&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",71 didik
+http://tv.cloudcdn.me/live.ts?channelId=93771&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",72
+http://tv.cloudcdn.me/live.ts?channelId=93772&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",73 tv1
+http://tv.cloudcdn.me/live.ts?channelId=93773&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",74 tv2
+http://tv.cloudcdn.me/live.ts?channelId=93774&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",75 tn
+http://tv.cloudcdn.me/live.ts?channelId=93775&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",76 tv3
+http://tv.cloudcdn.me/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",77 tv9
+http://tv.cloudcdn.me/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",78 al hijrah
+http://tv.cloudcdn.me/live.ts?channelId=93778&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",79 hbo family
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",80
+http://tv.cloudcdn.me/live.ts?channelId=93780&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",81
+http://tv.cloudcdn.me/live.ts?channelId=93781&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",82
+http://tv.cloudcdn.me/live.ts?channelId=93782&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",83
+http://tv.cloudcdn.me/live.ts?channelId=93783&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",84
+http://tv.cloudcdn.me/live.ts?channelId=93784&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",85
+http://tv.cloudcdn.me/live.ts?channelId=93785&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",86
+http://tv.cloudcdn.me/live.ts?channelId=93786&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",87
+http://tv.cloudcdn.me/live.ts?channelId=93787&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",88
+http://tv.cloudcdn.me/live.ts?channelId=93788&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",89
+http://tv.cloudcdn.me/live.ts?channelId=93789&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",90 rtm 
+http://tv.cloudcdn.me/live.ts?channelId=93790&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",91 didik
+http://tv.cloudcdn.me/live.ts?channelId=93791&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",92 tvm
+http://tv.cloudcdn.me/live.ts?channelId=93792&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",93
+http://tv.cloudcdn.me/live.ts?channelId=93793&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",94
+http://tv.cloudcdn.me/live.ts?channelId=93794&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",95
+http://tv.cloudcdn.me/live.ts?channelId=93795&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",96
+http://tv.cloudcdn.me/live.ts?channelId=93796&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",97
+http://tv.cloudcdn.me/live.ts?channelId=93797&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",98
+http://tv.cloudcdn.me/live.ts?channelId=93798&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",99
+http://tv.cloudcdn.me/live.ts?channelId=93799&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 group-title="11. TV Astro[2026]",132100 kid
+http://tv.cloudcdn.me/live.ts?channelId=132100&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132101
+http://tv.cloudcdn.me/live.ts?channelId=132101&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132102
+http://tv.cloudcdn.me/live.ts?channelId=132102&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132103
+http://tv.cloudcdn.me/live.ts?channelId=132103&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132104
+http://tv.cloudcdn.me/live.ts?channelId=132104&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132105
+http://tv.cloudcdn.me/live.ts?channelId=132105&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132106
+http://tv.cloudcdn.me/live.ts?channelId=132106&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132107
+http://tv.cloudcdn.me/live.ts?channelId=132107&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132108
+http://tv.cloudcdn.me/live.ts?channelId=132108&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132109
+http://tv.cloudcdn.me/live.ts?channelId=132109&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132110 tg4
+http://tv.cloudcdn.me/live.ts?channelId=132110&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132111
+http://tv.cloudcdn.me/live.ts?channelId=132111&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132112
+http://tv.cloudcdn.me/live.ts?channelId=132112&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132113
+http://tv.cloudcdn.me/live.ts?channelId=132113&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132114
+http://tv.cloudcdn.me/live.ts?channelId=132114&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132115
+http://tv.cloudcdn.me/live.ts?channelId=132115&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132116
+http://tv.cloudcdn.me/live.ts?channelId=132116&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132117
+http://tv.cloudcdn.me/live.ts?channelId=132117&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132118
+http://tv.cloudcdn.me/live.ts?channelId=132118&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132119
+http://tv.cloudcdn.me/live.ts?channelId=132119&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132120
+http://tv.cloudcdn.me/live.ts?channelId=132120&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132121
+http://tv.cloudcdn.me/live.ts?channelId=132121&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132122
+http://tv.cloudcdn.me/live.ts?channelId=132122&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132123
+http://tv.cloudcdn.me/live.ts?channelId=132123&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132124
+http://tv.cloudcdn.me/live.ts?channelId=132124&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132125 palco
+http://tv.cloudcdn.me/live.ts?channelId=132125&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132126
+http://tv.cloudcdn.me/live.ts?channelId=132126&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132127
+http://tv.cloudcdn.me/live.ts?channelId=132127&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132128
+http://tv.cloudcdn.me/live.ts?channelId=132128&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132129
+http://tv.cloudcdn.me/live.ts?channelId=132129&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132130 zoomoo
+http://tv.cloudcdn.me/live.ts?channelId=132130&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132131 skysport
+http://tv.cloudcdn.me/live.ts?channelId=132131&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132132
+http://tv.cloudcdn.me/live.ts?channelId=132132&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132133
+http://tv.cloudcdn.me/live.ts?channelId=132133&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132134
+http://tv.cloudcdn.me/live.ts?channelId=132134&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132135
+http://tv.cloudcdn.me/live.ts?channelId=132135&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132136 tamil hd
+http://tv.cloudcdn.me/live.ts?channelId=132136&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132137
+http://tv.cloudcdn.me/live.ts?channelId=132137&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132138
+http://tv.cloudcdn.me/live.ts?channelId=132138&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132139
+http://tv.cloudcdn.me/live.ts?channelId=132139&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132140
+http://tv.cloudcdn.me/live.ts?channelId=132140&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132141
+http://tv.cloudcdn.me/live.ts?channelId=132141&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132142
+http://tv.cloudcdn.me/live.ts?channelId=132142&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132143
+http://tv.cloudcdn.me/live.ts?channelId=132143&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132144
+http://tv.cloudcdn.me/live.ts?channelId=132144&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132145 tv8
+http://tv.cloudcdn.me/live.ts?channelId=132145&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132146
+http://tv.cloudcdn.me/live.ts?channelId=132146&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132147 astro aod
+http://tv.cloudcdn.me/live.ts?channelId=132147&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132148 astro stadium
+http://tv.cloudcdn.me/live.ts?channelId=132148&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132149 astro aura
+http://tv.cloudcdn.me/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132150 astro citra
+http://tv.cloudcdn.me/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132151 astro rania
+http://tv.cloudcdn.me/live.ts?channelId=132151&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132152 astro ria
+http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132153 astro tutor
+http://tv.cloudcdn.me/live.ts?channelId=132153&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132154 sun
+http://tv.cloudcdn.me/live.ts?channelId=132154&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132155
+http://tv.cloudcdn.me/live.ts?channelId=132155&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132156 bbc lifestyle
+http://tv.cloudcdn.me/live.ts?channelId=132156&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132157 hits movie
+http://tv.cloudcdn.me/live.ts?channelId=132157&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132158 report
+http://tv.cloudcdn.me/live.ts?channelId=132158&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132159 discovery
+http://tv.cloudcdn.me/live.ts?channelId=132159&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132160 hbo hits
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132161 hbo
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132162 hits movie
+http://tv.cloudcdn.me/live.ts?channelId=132162&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132163
+http://tv.cloudcdn.me/live.ts?channelId=132163&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132164
+http://tv.cloudcdn.me/live.ts?channelId=132164&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132165
+http://tv.cloudcdn.me/live.ts?channelId=132165&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132166
+http://tv.cloudcdn.me/live.ts?channelId=132166&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132167 tlc
+http://tv.cloudcdn.me/live.ts?channelId=132167&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132168 tvb
+http://tv.cloudcdn.me/live.ts?channelId=132168&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132169 bernama
+http://tv.cloudcdn.me/live.ts?channelId=132169&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132170 tvbs
+http://tv.cloudcdn.me/live.ts?channelId=132170&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132171 tvn
+http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132172 tvn movie
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132173 tvs
+http://tv.cloudcdn.me/live.ts?channelId=132173&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132174
+http://tv.cloudcdn.me/live.ts?channelId=132174&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132175 bein2
+http://tv.cloudcdn.me/live.ts?channelId=132175&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132176 bein3
+http://tv.cloudcdn.me/live.ts?channelId=132176&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132177 bein4
+http://tv.cloudcdn.me/live.ts?channelId=132177&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132178 bein
+http://tv.cloudcdn.me/live.ts?channelId=132178&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132179
+http://tv.cloudcdn.me/live.ts?channelId=132179&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132180 game
+http://tv.cloudcdn.me/live.ts?channelId=132180&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132181
+http://tv.cloudcdn.me/live.ts?channelId=132181&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132182
+http://tv.cloudcdn.me/live.ts?channelId=132182&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132183
+http://tv.cloudcdn.me/live.ts?channelId=132183&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132184
+http://tv.cloudcdn.me/live.ts?channelId=132184&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132185
+http://tv.cloudcdn.me/live.ts?channelId=132185&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132186 yupp
+http://tv.cloudcdn.me/live.ts?channelId=132186&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132187 ndtv
+http://tv.cloudcdn.me/live.ts?channelId=132187&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132188 starplus
+http://tv.cloudcdn.me/live.ts?channelId=132188&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132189 rtl
+http://tv.cloudcdn.me/live.ts?channelId=132189&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132190
+http://tv.cloudcdn.me/live.ts?channelId=132190&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132191
+http://tv.cloudcdn.me/live.ts?channelId=132191&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132192
+http://tv.cloudcdn.me/live.ts?channelId=132192&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132193
+http://tv.cloudcdn.me/live.ts?channelId=132193&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132194
+http://tv.cloudcdn.me/live.ts?channelId=132194&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132195
+http://tv.cloudcdn.me/live.ts?channelId=132195&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132196
+http://tv.cloudcdn.me/live.ts?channelId=132196&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132197
+http://tv.cloudcdn.me/live.ts?channelId=132197&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132198
+http://tv.cloudcdn.me/live.ts?channelId=132198&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="11. TV Astro[2026]",132199
+http://tv.cloudcdn.me/live.ts?channelId=132199&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 
@@ -24136,7 +24550,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-id="58" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="01. Indonesia STB (Tivimate-Dens)",19. TVN Movies
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="49" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/66fa4b713f7285f31deb54c97d10bf3c.jpg" group-title="01. Indonesia STB (Tivimate-Dens)",20. KIX(dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
