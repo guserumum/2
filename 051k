@@ -1809,6 +1809,9 @@ https://
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN Movie
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
+#EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN
+http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
 https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
 
@@ -1818,7 +1821,7 @@ https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="02. TV Parabola[2026]",HBO HD
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1826,7 +1829,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="603" group-title="02. TV Parabola[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1834,7 +1837,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="604" group-title="02. TV Parabola[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1842,7 +1845,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="605" group-title="02. TV Parabola[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -2112,6 +2115,8 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="02. TV Parabola[2026]",040. tVn Movie
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="02. TV Parabola[2026]",TVN
+http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
 https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
@@ -2172,7 +2177,7 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="02. TV Parabola[2026]",HBO HD
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -2180,7 +2185,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="603" group-title="02. TV Parabola[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -2188,7 +2193,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="604" group-title="02. TV Parabola[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -2196,7 +2201,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="605" group-title="02. TV Parabola[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -2207,10 +2212,10 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="02. TV Parabola[2026]",HBO2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="02. TV Parabola[2026]",HBO3
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="02. TV Parabola[2026]",cinemax2
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
@@ -2492,17 +2497,17 @@ https://wahyu1ptv.pages.dev/CitraBioskop-HD.m3u8
 https://
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO (id)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",HBO Hits (id)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature (id)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family (id)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax (id)
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
@@ -2510,17 +2515,17 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="hboasia.sg" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg",HBO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hbo.png" group-title="02. TV Parabola[2026]",028. HBO
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="hbohitsasia.sg" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/hBoHits.png" group-title="02. TV Parabola[2026]",029. HboHits
@@ -2530,7 +2535,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="hbofamilyasia.sg" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg",HBO FAMILY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HboFamily.png" group-title="02. TV Parabola[2026]",030. HboFamily
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -2539,7 +2544,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-id="hbosignatureasia.sg" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg",HBO SIGNATURE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HBOSignature.png" group-title="02. TV Parabola[2026]",031. HboSignature
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -2555,24 +2560,24 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="02. TV Parabola[2026]",HBO2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="02. TV Parabola[2026]",HBO3
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 
 
 #EXTINF:-1 tvg-chno="78" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="02. TV Parabola[2026]",HBO
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-chno="79" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="02. TV Parabola[2026]",HBO 2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-chno="80" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="02. TV Parabola[2026]",HBO Comedy
 http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-chno="81" tvg-id="HBO.Drama.us2" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="02. TV Parabola[2026]",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-chno="82" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="02. TV Parabola[2026]",HBO Zone
 https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
@@ -3309,6 +3314,12 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" tvg-logo="",🤍🤍🤍 KOREA 🤍🤍🤍
 https://
+
+
+#EXTINF:-1 group-title="02. TV Parabola[2026]" ch-number="48" tvg-logo="https://static.mncnow.id/images/channel/8226bb83/185e_r32.jpg",TVN
+http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
+
+
 
 #EXTINF:-1 group-title="02. TV Parabola[2026]" ch-number="48" tvg-logo="https://static.mncnow.id/images/channel/8226bb83/185e_r32.jpg",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -5596,6 +5607,9 @@ https://
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN Movie
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
+#EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1", TVN
+http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
 https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
 
@@ -5605,7 +5619,7 @@ https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="03. TV Kabel[2026]",HBO HD
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -5613,7 +5627,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="603" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -5621,7 +5635,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="604" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -5629,7 +5643,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="605" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -5896,6 +5910,9 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="03. TV Kabel[2026]",TVN
+http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
 https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
 
@@ -5954,7 +5971,7 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="03. TV Kabel[2026]",HBO HD
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -5962,7 +5979,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="603" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -5970,7 +5987,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="604" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -5978,7 +5995,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="605" group-title="03. TV Kabel[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -5989,10 +6006,10 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="03. TV Kabel[2026]",HBO2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="03. TV Kabel[2026]",HBO3
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="03. TV Kabel[2026]",cinemax2
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
@@ -6035,16 +6052,16 @@ http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
 http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png", HBO FAMILY
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png", HBO HITS
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="03. TV Kabel[2026]" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
@@ -10111,6 +10128,9 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="05. TV Mandarin 90[2026]",040. tVn Movie
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="05. TV Mandarin 90[2026]",TVN
+http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
+
 
 #EXTINF:-1 group-title="05. TV Mandarin 90[2026]" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX (ih)
 https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
@@ -10170,7 +10190,7 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="05. TV Mandarin 90[2026]",HBO HD
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -10178,7 +10198,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="603" group-title="05. TV Mandarin 90[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -10186,7 +10206,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="604" group-title="05. TV Mandarin 90[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -10194,7 +10214,7 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="605" group-title="05. TV Mandarin 90[2026]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -10205,10 +10225,10 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="05. TV Mandarin 90[2026]",HBO2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="05. TV Mandarin 90[2026]",HBO3
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="05. TV Mandarin 90[2026]",cinemax2
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
@@ -18102,42 +18122,42 @@ Https://www.googleapis.com/drive/v3/files/1Z2ph8zHJUvFTtXotSHi_WdKKo3XudN4l?alt=
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="401" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="401" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO (Alt 2)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="402" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="402" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits (Alt 2)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="403" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="403" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family (Alt 2)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="401" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="401" group-title="09. TV Indihome[2026]" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature (Alt 2)
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -18154,10 +18174,10 @@ https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="09. TV Indihome[2026]",HBO2
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKrA4lZ.jpg" group-title="09. TV Indihome[2026]",HBO3
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="09. TV Indihome[2026]",cinemax2
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
@@ -18258,22 +18278,22 @@ https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="auto.hbo.family" group-title="09. TV Indihome[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",HBO Family
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="auto.hbo" group-title="09. TV Indihome[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",HBO
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+http://31.43.191.125:8080/restream/restream/34571
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="auto.hbo.hits" group-title="09. TV Indihome[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",HBO Hits
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="auto.hbo.signature" group-title="09. TV Indihome[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",HBO Signature
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
