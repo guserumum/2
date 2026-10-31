@@ -1688,7 +1688,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/9fa6ed96d14643b974161813fcecb
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 
-#EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="003. TV Jepang[2026]",NHK G Osaka
+#EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="03. TV Jepang[2026]",NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
