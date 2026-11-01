@@ -920,6 +920,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
 
 <----------------------------------------------------------------------------------------------------------------------->
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",💛💛💛TV RUMAH💛💛💛
@@ -933,6 +939,12 @@ https://
 https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 
 
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. TV Rumah[2026]",Indosiar (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -940,6 +952,15 @@ https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 #https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" ch-number="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/250px-MNCTV_logo_2015.svg.png",03. MNC TV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -961,6 +982,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="01. TV Rumah[2026]",SCTV
 https://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="01. TV Rumah[2026]",SCTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
+
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-id="TransTV.id" status="online" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (co.id)
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w2146129999_b344100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3OTIxMTQ2MjI2ODYmd293emF0b2tlbmhhc2g9ejd6TjI0TDc4ZElwN2xLYnJOS0ltX3Rya1ZRTVFUejRQbnhSUTljQTBBMD0=.m3u8
@@ -997,6 +1026,11 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=1000
 https://op-flashcon-digdayahd-1.dens.tv/h/h19/02.m3u8
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvriwolrd.png" group-title="01. TV Rumah[2026]" , TVRI World
+http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",12. MD NET (dens01)
@@ -1010,6 +1044,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 
 
+#EXTINF:-1 tvg-id="22" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png" group-title="01. TV Rumah[2026]", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1019,6 +1057,12 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/moji.png" group-title="01. TV Rumah[2026]",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="01. TV Rumah[2026]", Moji (Dens)
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/jtv.png" group-title="01. TV Rumah[2026]",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
@@ -1092,12 +1136,168 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="01. TV Rumah[2026]",Indonesiana TV (ChannelFeed)
 https://tvstreamcast.com/indonesiana.m3u8
 
+
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/bn.png", BN Channel
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
+
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="01. TV Rumah[2026]",Garuda TV (ChannelFeed)
 https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
+
+<----------------------------------------------TVRI GROUP------------------------------------------------------------------------->
+
+#EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",🤍🤍🤍 TVRI 🤍🤍🤍
+https://
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",TVRI  Nasional
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",TVRI  Nasional (360)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_500000=10001-mp4a_64000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",TVRI  Nasional (720)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",TVRI SPORT
+https://op-flashcon-digdayahd-1.dens.tv/h/h19/02.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvriwolrd.png" group-title="01. TV Rumah[2026]" , TVRI World
+http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/maluku.png" group-title="01. TV Rumah[2026]",TVRI Ambon
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvribali.png" group-title="01. TV Rumah[2026]",TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/bangka.png" group-title="01. TV Rumah[2026]",TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/bengkulu.png" group-title="01. TV Rumah[2026]",TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/gorontalo.png" group-title="01. TV Rumah[2026]",TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_barat.png" group-title="01. TV Rumah[2026]",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jambi.png" group-title="01. TV Rumah[2026]",TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="01. TV Rumah[2026]",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_timur.png" group-title="01. TV Rumah[2026]",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/kalbar.png" group-title="01. TV Rumah[2026]",TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp4a_96000_eng=20002.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/kalsel.png" group-title="01. TV Rumah[2026]",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/kalteng.png" group-title="01. TV Rumah[2026]",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/kaltim.png" group-title="01. TV Rumah[2026]",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/lampung.png" group-title="01. TV Rumah[2026]",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/aceh.png" group-title="01. TV Rumah[2026]",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/ntb.png" group-title="01. TV Rumah[2026]",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/ntt.png" group-title="01. TV Rumah[2026]",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="01. TV Rumah[2026]",TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/riaubaru.png" group-title="01. TV Rumah[2026]",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulbar.png" group-title="01. TV Rumah[2026]",TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulsel.png" group-title="01. TV Rumah[2026]",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulteng.png" group-title="01. TV Rumah[2026]",TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulawesi_tenggra.png" group-title="01. TV Rumah[2026]",TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulawesi_utara.png" group-title="01. TV Rumah[2026]",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_2500000=10004-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumbar.png" group-title="01. TV Rumah[2026]",TVRI Sumatra Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumsel.png" group-title="01. TV Rumah[2026]",TVRI Sumatra Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumut.png" group-title="01. TV Rumah[2026]",TVRI Sumatra Utara
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/yogya.png" group-title="01. TV Rumah[2026]",TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="01. TV Rumah[2026]",TVRI Papua Barat
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+
+
+<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 #EXTINF:-1 group-title="01. TV Rumah[2026]" tvg-logo="",🤍🤍🤍 Berita 🤍🤍🤍
@@ -1353,11 +1553,11 @@ http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:0
 http://tv.cloudcdn.me/live.ts?channelId=132162&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
-#EXTINF:-1 group-title="02. TV Movie[2026]" ch-number="33" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Hits Now
+#EXTINF:-1 group-title="02. TV Movie[2026]" ch-number="33" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hitsnow.jpg",Hits Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=132157&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 group-title="02. TV Movie[2026]" ch-number="33" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/250px-HITS-WWW-Banner1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",Hits 
+#EXTINF:-1 group-title="02. TV Movie[2026]" ch-number="33" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hits.jpg",Hits 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://tv.cloudcdn.me/live.ts?channelId=93767&uid=10223&deviceMac=00:1A:79:07:07:43
 
@@ -1754,7 +1954,7 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 
 
 
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/animax.png",Animax
 http://tv.cloudcdn.me/live.ts?channelId=93752&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
@@ -1900,9 +2100,17 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/kplus.png" group-title="04. TV Korea[2026]",Kplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/arirang.png" group-title="04. TV Korea[2026]",ARIRANG WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/kbsworld.png" group-title="04. TV Korea[2026]",KBS WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://stream8.cinerama.uz/1448/playlist.m3u8
 
 
 
@@ -8060,8 +8268,21 @@ https://
 <================================================================================================================>
 <================================================================================================================>
 <================================================================================================================>
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/qurantv.png" group-title="14. TV Arab[2026]",Al Quran Al Kareem 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/01.m3u8
+
 #EXTINF:-1 group-title="14. TV Arab[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Quran TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sunnahtv.png" group-title="14. TV Arab[2026]",SAUDI SUNNAH TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/01.m3u8
+
 
 #EXTINF:-1 group-title="14. TV Arab[2026]" tvg-id="TransTV.id" status="online" tvg-logo=" ", Sunnah TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h38/02.m3u8
