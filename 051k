@@ -1854,12 +1854,62 @@ http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:0
 http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
-#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="04. TV Korea[2026]",ABN TV (720p)
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="04. TV Korea[2026]",Arirang Radio (720p)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="04. TV Korea[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", Arirang TV
+#EXTVLCOPT:http-origin=https://tv.garden
+#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="04. TV Korea[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwzZZcfmWhFjkbw4ljeVBALeIvi4zqZ94_w&s", Arirang TV UN
+#EXTVLCOPT:http-origin=https://tv.garden
+#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="04. TV Korea[2026]",Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="04. TV Korea[2026]",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="04. TV Korea[2026]",Arirang TV HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=111
+
+
+
+
+#EXTINF:-1 group-title="04. TV Korea[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPS2HfHVb4Sr1DIRtyxyvQlkYVTj4ZMG4ow&s", Arirang Radio
+#EXTVLCOPT:http-origin=https://tv.garden
+#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="04. TV Korea[2026]",Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="04. TV Korea[2026]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBKtRRhL1UqJcIv-eKXsBM7PL-8sEQlVLyQ&s", ABN TV
+#EXTVLCOPT:http-origin=https://tv.garden
+#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="04. TV Korea[2026]",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+
 #EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="04. TV Korea[2026]",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
@@ -1951,11 +2001,6 @@ https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 #EXTINF:-1 tvg-id="ABN.kr@SD" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="04. TV Korea[2026]",ABN (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
-#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="04. TV Korea[2026]",Arirang TV (1080p)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="04. TV Korea[2026]",Arirang TV HD (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=111
 
 #EXTINF:-1 tvg-id="BBSTV.kr@SD" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="04. TV Korea[2026]",BBS TV (South Korea) (1080p)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
@@ -7879,6 +7924,120 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/dw-news.m3u8
+
+
+#EXTINF:-1 group-title="13. TV Dunia[2026]" tvg-logo="",🤍🤍🤍 Internasional🤍🤍🤍
+https://
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional 亚洲
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional 新加坡_CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional 🎈韩国频道,#genre#
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional ArirangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional ArirangTV
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional ArirangTV
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional ArirangTV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional 국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional TJB 대전방송 (SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional KCTV 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="13. TV Dunia[2026]", internasional KALOPY
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+
+#EXTINF:-1 group-title="13. TV Dunia[2026]" tvg-logo="",🤍🤍🤍 Internasional🤍🤍🤍
+https://
+
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国国防TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 新加坡亚太台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 泰国ASTV
+http://news1.live14.com/stream/news1_hi.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 朝鲜KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 俄罗斯rostovpapa tv
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 新加坡英语电视台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-KBC
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-KCTV_HV2
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-MBC综合频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国-阿里郎WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 泰国-公共三台
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 新加坡-CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 越南-CTV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩·TBS
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩·GSMyShop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩·KoreaTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国新闻
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 越·ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 倒霉特熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 雲朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 反转星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 熊大熊二
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 狮子王國
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8 
+#EXTINF:-1 tvg-logo=" "  group-title="13. TV Dunia[2026]", test 韩国EBS少儿童
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd 
 
 
 
