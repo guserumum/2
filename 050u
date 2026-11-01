@@ -1347,6 +1347,32 @@ http://tv.cloudcdn.me/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07
 http://tv.cloudcdn.me/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
+
+#EXTINF:-1 group-title="02. TV Movie[2026]" ch-number="33" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b9/Hits_Movies_Logo_2018.png",Hits Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://tv.cloudcdn.me/live.ts?channelId=132162&uid=10223&deviceMac=00:1A:79:07:07:43
+
+
+#EXTINF:-1 group-title="02. TV Movie[2026]" ch-number="33" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Hits Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://tv.cloudcdn.me/live.ts?channelId=132157&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 group-title="02. TV Movie[2026]" ch-number="33" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/HITS-WWW-Banner1.png/250px-HITS-WWW-Banner1.png?utm_source=id.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",Hits 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://tv.cloudcdn.me/live.ts?channelId=93767&uid=10223&deviceMac=00:1A:79:07:07:43
+
+
+#EXTINF:-1 group-title="02. TV Movie[2026]" ch-number="33" tvg-logo="https://images.indihometv.com/assets/88_AXN_2025_03_17_15_04_05.png",AXN
+http://tv.cloudcdn.me/live.ts?channelId=93746&uid=10223&deviceMac=00:1A:79:07:07:43
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  group-title="02. TV Movie[2026]" tvg-logo="", 🤍🤍🤍 Stephen Chow 🤍🤍🤍 
 https://
 
@@ -1728,7 +1754,8 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 
 
 
-
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Animax_logo.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original",52 animax
+http://tv.cloudcdn.me/live.ts?channelId=93752&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",nhk world
@@ -9941,7 +9968,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93757&uid=10223&deviceMac=00:1A:79:07:07
 http://tv.cloudcdn.me/live.ts?channelId=93758&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",59
 http://tv.cloudcdn.me/live.ts?channelId=93759&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 group-title="17. TV Astro[2026]",60 hbomax
+#EXTINF:-1 group-title="17. TV Astro[2026]",60 SCI
 http://tv.cloudcdn.me/live.ts?channelId=93760&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",61
 http://tv.cloudcdn.me/live.ts?channelId=93761&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -9959,7 +9986,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93766&uid=10223&deviceMac=00:1A:79:07:07
 http://tv.cloudcdn.me/live.ts?channelId=93767&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",68 nraah
 http://tv.cloudcdn.me/live.ts?channelId=93768&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 group-title="17. TV Astro[2026]",69 home
+#EXTINF:-1 group-title="17. TV Astro[2026]",69 natgeo wild
 http://tv.cloudcdn.me/live.ts?channelId=93769&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",70 nick jr
 http://tv.cloudcdn.me/live.ts?channelId=93770&uid=10223&deviceMac=00:1A:79:07:07:43
@@ -10136,7 +10163,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132154&uid=10223&deviceMac=00:1A:79:07:0
 http://tv.cloudcdn.me/live.ts?channelId=132155&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",132156 bbc lifestyle
 http://tv.cloudcdn.me/live.ts?channelId=132156&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 group-title="17. TV Astro[2026]",132157 hits movie
+#EXTINF:-1 group-title="17. TV Astro[2026]",132157 hits now
 http://tv.cloudcdn.me/live.ts?channelId=132157&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",132158 report
 http://tv.cloudcdn.me/live.ts?channelId=132158&uid=10223&deviceMac=00:1A:79:07:07:43
