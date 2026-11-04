@@ -815,7 +815,9 @@ https://
 https://
 #EXTINF:-1 tvg-logo="" group-title="🟩🟩🟩PRODUK UTAMA🟩🟩🟩 ===>", 00.30-01.55 - Cinema Pilihan
 https://
-#EXTINF:-1 tvg-logo="" group-title="🟩🟩🟩PRODUK UTAMA🟩🟩🟩 ===>", 02.00-06.00 - Kartun Dini Hari
+#EXTINF:-1 tvg-logo="" group-title="🟩🟩🟩PRODUK UTAMA🟩🟩🟩 ===>", 02.00-03.25 - Drama China
+https://
+#EXTINF:-1 tvg-logo="" group-title="🟩🟩🟩PRODUK UTAMA🟩🟩🟩 ===>", 03.30-04.25 - Kartun Dini Hari
 https://
 
 <=============================================================================================================================>
@@ -13405,9 +13407,10 @@ https://
 https://
 #EXTINF:-1 tvg-logo="" group-title="💚💚💚02. TV 90an💚💚💚", 00.30-01.55 - Cinema Pilihan
 https://
-#EXTINF:-1 tvg-logo="" group-title="💚💚💚02. TV 90an💚💚💚", 02.00-06.00 - Kartun Dini Hari
+#EXTINF:-1 tvg-logo="" group-title="💚💚💚02. TV 90an💚💚💚", 02.00-03.25 - Drama China
 https://
-
+#EXTINF:-1 tvg-logo="" group-title="💚💚💚02. TV 90an💚💚💚", 03.30-04.25 - Kartun Dini Hari
+https://
 
 
 <=============================================================================================================================>
@@ -15722,6 +15725,15 @@ Https://www.googleapis.com/drive/v3/files/1obuAb3_lvd2PvB0EE2h1wQMSEhObYGl9?alt=
 Https://www.googleapis.com/drive/v3/files/158ZOxQBixLh1d_O6uxdtObgcFsEtG33f?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
 
 
+#EXTINF:-1 group-title="21.25-21.30  - [jeda] Cinema Mandarin",YTake-my-breath-away-As-tears-go-by-1988_1080p
+Https://www.googleapis.com/drive/v3/files/1AOrys9RNTDC5fixRtkIvWw729TnqXub0?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+#EXTINF:-1 group-title="21.25-21.30  - [jeda] Cinema Mandarin",As-tears-go-by-1988_480p
+Https://www.googleapis.com/drive/v3/files/1e4ovbMa4SzzGG4DlwMnS3YNMSWdziHXw?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+#EXTINF:-1 group-title="21.25-21.30  - [jeda] Cinema Mandarin",Jacky-Cheung-In-Love-With-You_Media_3KA1Lec9QiU_001_480p
+Https://www.googleapis.com/drive/v3/files/1UeJH5lU4B27XUNiT8J8dOsbVcksHghLG?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
 
 
 
@@ -17252,41 +17264,67 @@ Https://www.googleapis.com/drive/v3/files/1eWX2AAJYo7bYYU-qmcd_K6ws_5IHX68K?alt=
 Https://www.googleapis.com/drive/v3/files/1wTLJIIOPgjbuVq50Zt9dGx__FjA2a8Kd?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
 
 
-<=============================================================================================================================>
 
 
 <=============================================================================================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
-
-<================================================================================================================>
+<==========================================[  01.55-02.00  - [jeda] Drama China]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
-<=============================================================================================================================>
-<==========================================[  01.55-02.20  - [jeda] Kartun Dini Hari]======================================================>
-<=============================================================================================================================>
-<=============================================================================================================================>
-#EXTINF:-1 group-title="01.55-02.20  - [jeda] Kartun Dini Hari",All 4 One - I swear
+#EXTINF:-1 group-title="01.55-02.00  - [jeda] Drama China",All 4 One - I swear
 Https://www.googleapis.com/drive/v3/files/1yUMdqqBYILQEGeInT7lNhRseWBsUBzCQ?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="01.55-02.20  - [jeda] Kartun Dini Hari", Kurupt Feat. Natina Reed - It's Over (HQ _ Dirty) - YouTube.flv
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="01.55-02.00  - [jeda] Drama China", Kurupt Feat. Natina Reed - It's Over (HQ _ Dirty) - YouTube.flv
 Https://www.googleapis.com/drive/v3/files/1TSN96DWU61iEmHNKQ4UVdXBPiFFCyqYB?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="01.55-02.20  - [jeda] Kartun Dini Hari", Nirvana - Seasons In The Sun - YouTube.flv
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="01.55-02.00  - [jeda] Drama China", Nirvana - Seasons In The Sun - YouTube.flv
 Https://www.googleapis.com/drive/v3/files/1XGY9tyxR2ZNKnZmOVmDO5kGfuKuuyn6W?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
 
 
 
 <=============================================================================================================================>
-<==========================================[  02.00-06.00 - Kartun Dini Hari  ]======================================================>
+<==========================================[  02.00-03.25 - Drama China  ]======================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
-#EXTINF:-1 group-title="02.00-06.00 - Kartun Dini Hari",💚💚💚02. TV 90an💚💚💚
+#EXTINF:-1 group-title="02.00-03.25 - Drama China",💚💚💚02. TV 90an💚💚💚
 https://
 
-#EXTINF:-1 group-title="02.00-06.00 - Kartun Dini Hari" tvg-logo="",💙💙💙02.00-06.00 - Kartun Dini Hari💙💙💙
+#EXTINF:-1 group-title="02.00-03.25 - Drama China" tvg-logo="",💙💙💙02.00-03.25 - Drama China💙💙💙
 https://
 
-#EXTINF:-1 group-title="02.00-06.00 - Kartun Dini Hari" tvg-logo="",💛💛💛Semua Channel💛💛💛
+#EXTINF:-1 group-title="02.00-03.25 - Drama China" tvg-logo="",💛💛💛Semua Channel💛💛💛
 https://
+
+
+
+<=============================================================================================================================>
+<=============================================================================================================================>
+<=============================================================================================================================>
+<==========================================[  03.25-03.30  - [jeda] Kartun Dini Hari]======================================================>
+<=============================================================================================================================>
+<=============================================================================================================================>
+#EXTINF:-1 group-title="03.25-03.30  - [jeda] Kartun Dini Hari",All 4 One - I swear
+Https://www.googleapis.com/drive/v3/files/1yUMdqqBYILQEGeInT7lNhRseWBsUBzCQ?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="03.25-03.30  - [jeda] Kartun Dini Hari", Kurupt Feat. Natina Reed - It's Over (HQ _ Dirty) - YouTube.flv
+Https://www.googleapis.com/drive/v3/files/1TSN96DWU61iEmHNKQ4UVdXBPiFFCyqYB?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="03.25-03.30  - [jeda] Kartun Dini Hari", Nirvana - Seasons In The Sun - YouTube.flv
+Https://www.googleapis.com/drive/v3/files/1XGY9tyxR2ZNKnZmOVmDO5kGfuKuuyn6W?alt=media&key=AIzaSyB1tWuM08FQ6Cp8IAZb-3WAaYDqKwQdrjk
+
+
+
+<=============================================================================================================================>
+<==========================================[  03.30-04.25 - Kartun Dini Hari  ]======================================================>
+<=============================================================================================================================>
+<=============================================================================================================================>
+#EXTINF:-1 group-title="03.30-04.25 - Kartun Dini Hari",💚💚💚02. TV 90an💚💚💚
+https://
+
+#EXTINF:-1 group-title="03.30-04.25 - Kartun Dini Hari" tvg-logo="",💙💙💙03.30-04.25 - Kartun Dini Hari💙💙💙
+https://
+
+#EXTINF:-1 group-title="03.30-04.25 - Kartun Dini Hari" tvg-logo="",💛💛💛Semua Channel💛💛💛
+https://
+
+
 <=============================================================================================================================>
 <=============================================================================================================================>
 <=============================================================================================================================>
