@@ -8799,6 +8799,64 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 
 #EXTINF:-1 group-title="11. TV Malaysia[2026]" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",309 Dewan Negara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
+
+
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",29 astro arena
+http://tv.cloudcdn.me/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",30 astro arena
+http://tv.cloudcdn.me/live.ts?channelId=93730&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",32 astro awani
+http://tv.cloudcdn.me/live.ts?channelId=93732&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",34 astro prima
+http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",35 astro oasis
+http://tv.cloudcdn.me/live.ts?channelId=93735&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",40 astro prime league
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",41 astro grandstan
+http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",42 astro football
+http://tv.cloudcdn.me/live.ts?channelId=93742&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",62 astro ceria
+http://tv.cloudcdn.me/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",71 didik
+http://tv.cloudcdn.me/live.ts?channelId=93771&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",73 tv1
+http://tv.cloudcdn.me/live.ts?channelId=93773&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",74 tv2
+http://tv.cloudcdn.me/live.ts?channelId=93774&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",75 tn
+http://tv.cloudcdn.me/live.ts?channelId=93775&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",76 tv3
+http://tv.cloudcdn.me/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",77 tv9
+http://tv.cloudcdn.me/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",78 al hijrah
+http://tv.cloudcdn.me/live.ts?channelId=93778&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",90 rtm 
+http://tv.cloudcdn.me/live.ts?channelId=93790&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",91 didik
+http://tv.cloudcdn.me/live.ts?channelId=93791&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",92 tvm
+http://tv.cloudcdn.me/live.ts?channelId=93792&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",132147 astro aod
+http://tv.cloudcdn.me/live.ts?channelId=132147&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",132148 astro stadium
+http://tv.cloudcdn.me/live.ts?channelId=132148&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",132149 astro aura
+http://tv.cloudcdn.me/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",132150 astro citra
+http://tv.cloudcdn.me/live.ts?channelId=132150&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",132151 astro rania
+http://tv.cloudcdn.me/live.ts?channelId=132151&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",132152 astro ria
+http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",132153 astro tutor
+http://tv.cloudcdn.me/live.ts?channelId=132153&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1  group-title="11. TV Malaysia[2026]",132173 tvs
+http://tv.cloudcdn.me/live.ts?channelId=132173&uid=10223&deviceMac=00:1A:79:07:07:43
+
 <================================================================================================================>
 <================================================================================================================>
 <================================================================================================================>
@@ -8818,6 +8876,11 @@ https://
 <================================================================================================================>
 <================================================================================================================>
 <================================================================================================================>
+
+#EXTINF:-1 group-title="12. TV Brunei[2026]" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+http://tv.cloudcdn.me/live.ts?channelId=132166&uid=10223&deviceMac=00:1A:79:07:07:43
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 group-title="12. TV Brunei[2026]" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
@@ -13274,7 +13337,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132163&uid=10223&deviceMac=00:1A:79:07:0
 http://tv.cloudcdn.me/live.ts?channelId=132164&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",132165
 http://tv.cloudcdn.me/live.ts?channelId=132165&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 group-title="17. TV Astro[2026]",132166
+#EXTINF:-1 group-title="17. TV Astro[2026]",132166 rtb
 http://tv.cloudcdn.me/live.ts?channelId=132166&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",132167 tlc
 http://tv.cloudcdn.me/live.ts?channelId=132167&uid=10223&deviceMac=00:1A:79:07:07:43
