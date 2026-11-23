@@ -4149,6 +4149,11 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",💛💛💛TV Jepang 2026 (Bisa)💛💛💛
+https://
+
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",🤍🤍🤍 CS 🤍🤍🤍 
+https://
 
 <================================================================================================================>
 
@@ -4255,6 +4260,8 @@ http://103.255.250.188:5002/cs50.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 
 
 <================================================================================================================>
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",🤍🤍🤍 BS 🤍🤍🤍 
+https://
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs01 NHK BS4K
 http://103.255.250.188:5002/bs01.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs02 BS NTV
@@ -4357,6 +4364,8 @@ http://103.255.250.188:5002/bs49.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 http://103.255.250.188:5002/bs50.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 
 <================================================================================================================>
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",🤍🤍🤍 GD 🤍🤍🤍 
+https://
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gd01 NHK General
 http://103.255.250.188:5002/gd01.m3u8?channel=zhongying&gid=gd18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gd02 NHK Educational
@@ -4459,6 +4468,8 @@ http://103.255.250.188:5002/gd49.m3u8?channel=zhongying&gid=gd18&token=guoziyun
 http://103.255.250.188:5002/gd50.m3u8?channel=zhongying&gid=gd18&token=guoziyun
 
 <================================================================================================================>
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",🤍🤍🤍 GX 🤍🤍🤍 
+https://
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gx01 MBS
 http://103.255.250.188:5002/gx01.m3u8?channel=zhongying&gid=gx18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gx02 ABC
@@ -4561,8 +4572,16 @@ http://103.255.250.188:5002/gx49.m3u8?channel=zhongying&gid=gx18&token=guoziyun
 http://103.255.250.188:5002/gx50.m3u8?channel=zhongying&gid=gx18&token=guoziyun
 
 
+
+
 <================================================================================================================>
+
+
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",💛💛💛uji coba channel jepang (OFF)💛💛💛
+https://
 <================================================================================================================>
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",🤍🤍🤍 JP 🤍🤍🤍 
+https://
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",jp01 
 http://103.255.250.188:5002/jp01.m3u8?channel=zhongying&gid=jp18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",jp02 
@@ -4666,13 +4685,6 @@ http://103.255.250.188:5002/jp50.m3u8?channel=zhongying&gid=jp18&token=guoziyun
 
 
 <================================================================================================================>
-
-<================================================================================================================>
-
-
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",💛💛💛uji coba channel jepang💛💛💛
-https://
-
 
 #EXTINF:-1 group-title="03. TV Jepang[2026]",0
 http://42.118.247.37:9394/stream/0.m3u8
