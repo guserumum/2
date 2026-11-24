@@ -1519,6 +1519,9 @@ https://
 #EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="02. TV Movie[2026]",HBO HD
 http://31.43.191.125:8080/restream/restream/34571
 
+#EXTINF:-1 tvg-id="601" group-logo="https://iili.io/Ju79f8g.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="02. TV Movie[2026]",HBO Latin
+https://streaming.onnethn.com/HBO/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="02. TV Movie[2026]",HBO (transvision)
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
 
@@ -9399,6 +9402,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h22/02.m3u8
 
 #EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="05. TV China[2026]",TVB Jade (1080p)
 http://tv.cloudcdn.me/live.ts?channelId=132168&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="05. TV China[2026]",TVB
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="05. TV China[2026]",TVB Jade (1080p)
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-id="GoldenJade.hk@SD" tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="05. TV China[2026]",Golden Jade (1080p)
@@ -13881,6 +13889,15 @@ https://
 <================================================================================================================>
 <================================================================================================================>
 <================================================================================================================>
+
+#EXTINF:-1 group-title="13. TV Dunia[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",MTV ger
+https://ma.anixa.tv/clips/stream/mtv/playlist.php
+
+
+#EXTINF:-1 group-title="13. TV Dunia[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",MTV Fr
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
+
+
 #EXTINF:-1 group-title="13. TV Dunia[2026]" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
@@ -18051,6 +18068,22 @@ http://tv.cloudcdn.me/live.ts?channelId=93746&uid=10223&deviceMac=00:1A:79:07:07
 http://tv.cloudcdn.me/live.ts?channelId=93747&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",48 bein 1
 http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 group-title="17. TV Astro[2026]",bein extra 1
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+
+#EXTINF:-1 group-title="17. TV Astro[2026]",bein extra 
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="17. TV Astro[2026]",bein extra 
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 group-title="17. TV Astro[2026]",FTV ru 
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+
+#EXTINF:-1 group-title="17. TV Astro[2026]",FTV Paris
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
 #EXTINF:-1 group-title="17. TV Astro[2026]",49
 http://tv.cloudcdn.me/live.ts?channelId=93749&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="17. TV Astro[2026]",50
