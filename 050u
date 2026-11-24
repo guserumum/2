@@ -4199,7 +4199,7 @@ http://103.255.250.188:5002/cs19.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 http://103.255.250.188:5002/cs20.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",cs21 Mondo TV
 http://103.255.250.188:5002/cs21.m3u8?channel=zhongying&gid=cs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",cs22 NECO
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",cs22 Eisei Gekijo
 http://103.255.250.188:5002/cs22.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",cs23 Disney Jr
 http://103.255.250.188:5002/cs23.m3u8?channel=zhongying&gid=cs18&token=guoziyun
@@ -4215,7 +4215,7 @@ http://103.255.250.188:5002/cs27.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 http://103.255.250.188:5002/cs28.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",cs29 Channel Ginga
 http://103.255.250.188:5002/cs29.m3u8?channel=zhongying&gid=cs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",cs30 チャンネル銀
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",cs30  
 http://103.255.250.188:5002/cs30.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",cs31
 http://103.255.250.188:5002/cs31.m3u8?channel=zhongying&gid=cs18&token=guoziyun
@@ -4284,31 +4284,31 @@ http://103.255.250.188:5002/bs09.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 http://103.255.250.188:5002/bs10.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs11 NHK BS
 http://103.255.250.188:5002/bs11.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs12 BS 12
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs12 WOWOW Prime
 http://103.255.250.188:5002/bs12.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs13
 http://103.255.250.188:5002/bs13.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs14 Green Channel
 http://103.255.250.188:5002/bs14.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs15
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs15 Animax
 http://103.255.250.188:5002/bs15.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs16
 http://103.255.250.188:5002/bs16.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs17
 http://103.255.250.188:5002/bs17.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs18
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs18 JSport 1
 http://103.255.250.188:5002/bs18.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs19
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs19 JSport 1
 http://103.255.250.188:5002/bs19.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs20
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs20 WOWOW Live
 http://103.255.250.188:5002/bs20.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs21
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs21 JSPORTS 3
 http://103.255.250.188:5002/bs21.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs22
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs22 JSPORTS 4
 http://103.255.250.188:5002/bs22.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs23
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs23 Nihon Eiga Senmon
 http://103.255.250.188:5002/bs23.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs24
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs24 Disney Channel
 http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs25 Fishing Vision
 http://103.255.250.188:5002/bs25.m3u8?channel=zhongying&gid=bs18&token=guoziyun
@@ -4322,7 +4322,7 @@ http://103.255.250.188:5002/bs28.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 http://103.255.250.188:5002/bs29.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs30
 http://103.255.250.188:5002/bs30.m3u8?channel=zhongying&gid=bs18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs31
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs31 BS Shochiku Tokyu
 http://103.255.250.188:5002/bs31.m3u8?channel=zhongying&gid=bs18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",bs32
 http://103.255.250.188:5002/bs32.m3u8?channel=zhongying&gid=bs18&token=guoziyun
@@ -4480,9 +4480,9 @@ http://103.255.250.188:5002/gx03.m3u8?channel=zhongying&gid=gx18&token=guoziyun
 http://103.255.250.188:5002/gx04.m3u8?channel=zhongying&gid=gx18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gx05 Sun TV
 http://103.255.250.188:5002/gx05.m3u8?channel=zhongying&gid=gx18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gx06 
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gx06 NHK G
 http://103.255.250.188:5002/gx06.m3u8?channel=zhongying&gid=gx18&token=guoziyun
-#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gx07
+#EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gx07 Sun TV
 http://103.255.250.188:5002/gx07.m3u8?channel=zhongying&gid=gx18&token=guoziyun
 #EXTINF:-1 group-title="03. TV Jepang[2026]" tvg-logo="",gx08
 http://103.255.250.188:5002/gx08.m3u8?channel=zhongying&gid=gx18&token=guoziyun
